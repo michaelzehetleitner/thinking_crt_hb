@@ -1,0 +1,2540 @@
+[
+  {
+    "varname": "StartDate",
+    "var_label": "Start Date",
+    "class": "POSIXct|POSIXt",
+    "value_labels": []
+  },
+  {
+    "varname": "EndDate",
+    "var_label": "End Date",
+    "class": "POSIXct|POSIXt",
+    "value_labels": []
+  },
+  {
+    "varname": "Status",
+    "var_label": "Response Type",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 0,
+        "label": "IP Address"
+      },
+      {
+        "value": 1,
+        "label": "Survey Preview"
+      },
+      {
+        "value": 2,
+        "label": "Survey Test"
+      },
+      {
+        "value": 4,
+        "label": "Imported"
+      },
+      {
+        "value": 8,
+        "label": "Spam"
+      },
+      {
+        "value": 9,
+        "label": "Survey Preview Spam"
+      },
+      {
+        "value": 12,
+        "label": "Imported Spam"
+      },
+      {
+        "value": 16,
+        "label": "Offline"
+      },
+      {
+        "value": 17,
+        "label": "Offline Survey Preview"
+      },
+      {
+        "value": 32,
+        "label": "EX"
+      },
+      {
+        "value": 40,
+        "label": "EX Spam"
+      },
+      {
+        "value": 48,
+        "label": "EX Offline"
+      },
+      {
+        "value": 132,
+        "label": "Reimported imported"
+      },
+      {
+        "value": 256,
+        "label": "Synthetic"
+      }
+    ]
+  },
+  {
+    "varname": "Progress",
+    "var_label": "Progress",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "Duration__in_seconds_",
+    "var_label": "Duration (in seconds)",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "Finished",
+    "var_label": "Finished",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 0,
+        "label": "False"
+      },
+      {
+        "value": 1,
+        "label": "True"
+      }
+    ]
+  },
+  {
+    "varname": "RecordedDate",
+    "var_label": "Recorded Date",
+    "class": "POSIXct|POSIXt",
+    "value_labels": []
+  },
+  {
+    "varname": "ResponseId",
+    "var_label": "Response ID",
+    "class": "character",
+    "value_labels": []
+  },
+  {
+    "varname": "DistributionChannel",
+    "var_label": "Distribution Channel",
+    "class": "character",
+    "value_labels": []
+  },
+  {
+    "varname": "UserLanguage",
+    "var_label": "User Language",
+    "class": "character",
+    "value_labels": []
+  },
+  {
+    "varname": "Q_RecaptchaScore",
+    "var_label": "Q_RecaptchaScore",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "info_teilnahme_2",
+    "var_label": "Freiwilligkeit der Teilnahme\n\nDie Teilnahme an der Studie ist freiwillig. Sie können die Teilnahme jederzeit ohne Angabe von Gründen abbrechen, indem Sie das Browserfenster schließen. Ihnen entstehen dadurch keine Nachteile.\n\n \n\nVergütung / keine Vergütung\n\nWenn Sie über ein externes Online-Panel (z. B. Bilendi oder ein vergleichbares Panel) an dieser Studie teilnehmen, erfolgt die Vergütung ausschließlich über dieses Panel. In diesem Fall gelten ergänzend die Teilnahme- und Vergütungsbedingungen des jeweiligen Panels. Die Zuordnung zwischen Ihrer Person und der Vergütung (z. B. über Ihr Panel-Konto) erfolgt ausschließlich beim Panel-Anbieter; im Rahmen dieser Studie werden keine Daten gespeichert, die eine Identifikation Ihrer Person ermöglichen.\n\n \n\nVerwendung und Veröffentlichung der Daten\n\nDie im Rahmen dieser Studie erhobenen anonymen Daten werden ausschließlich zu wissenschaftlichen Zwecken verwendet. Die Ergebnisse können in anonymisierter Form in wissenschaftlichen Fachzeitschriften",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Anzeigen"
+      }
+    ]
+  },
+  {
+    "varname": "info_dataprotection",
+    "var_label": "Weitere Informationen zum Umgang mit persönlichen Daten\n\nIn dieser Studie werden keine personenbezogenen oder identifizierenden Daten (z. B. Name, Adresse, E-Mail-Adresse) erhoben oder verarbeitet. Die Befragung wird mithilfe des Programmes „Qualtrics“ durchgeführt. Dessen Bestimmungen zur Datensicherheit erfüllen die Anforderungen der DSGVO sowie den kirchlichen Datenschutzbestimmungen.\n\n\n\nVerantwortlicher für die Datenverarbeitung:\n\nKatholische Universität Eichstätt-Ingolstadt (KU), Professur für Allgemeine Psychologie II (Prof. Dr. Michael Zehetleitner), Ostenstraße 25, 85072 Eichstätt\n\n\n\nDatenschutzbeauftragter der KU:\n\nSK-Consulting Group GmbH, Herr Georg Möller, Osterweg 2, 32549 Bad Oeynhausen, E-Mail: datenschutz@SK-consulting.com\n\nIn Trägerschaft einer kirchlichen Stiftung des öffentlichen Rechts wendet die KU gemäß Art. 91 DSGVO das Gesetz über den Kirchlichen Datenschutz (KDG) an, welches stark an die DSGVO angelehnt ist.\n\nWir verarbeiten die in dieser Studie erhobenen anonymen ",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "info_consent",
+    "var_label": "Bitte bestätigen Sie Ihre Einwilligung zu den folgenden Teilnahmeinformationen und Datenschutzbestimmungen, um an der Studie teilzunehmen.\n\nEinwilligungserklärung:\n\nIch bestätige:\n\n\tdass ich die Teilnahmeinformationen gelesen und verstanden habe;\n\tdass ich umfassend über die Studienbedingungen informiert wurde und Rückfragen stellen konnte;\n\tdass ich die Datenschutzbestimmungen zur Kenntnis genommen habe und ihnen zustimme;\n\tdass ich mit der beschriebenen Erhebung und Verarbeitung der Daten einverstanden bin;\n\tdass meine Teilnahme freiwillig ist und ich mindestens 18 Jahre alt bin;\n\tdass die Anonymisierung der Daten eine Zuordnung zu meiner Person unmöglich macht;\n\tdass eine nachträgliche Löschung anonymisierter Forschungsdaten nicht möglich ist;\n\tdass meine anonymisierten Daten für Forschungszwecke verwendet werden dürfen;\n\tdass ich meine Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen kann, wobei bereits anonymisierte Daten nicht mehr gelöscht oder zugeordnet werden können.\n\n\n\nB",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Ja, ich willige ein und nehme an der Studie teil."
+      },
+      {
+        "value": 0,
+        "label": "Nein, ich willige nicht ein und nehme nicht an der Studie teil."
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_AOT_1",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nEs ist wichtig, seinen Überzeugungen treu zu bleiben, selbst wenn Belege gegen sie angeführt werden.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 6,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 1,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_AOT_2",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nOb sich etwas wahr anfühlt, ist wichtiger als Belege.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 6,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 1,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_AOT_3",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nNur weil Belege gegen meine aktuellen Überzeugungen sprechen, heißt das nicht, dass meine Überzeugungen falsch sind.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 6,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 1,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_AOT_4",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nAuch wenn Belege gegen die eigenen Überzeugungen vorliegen, heißt das nicht, dass man seine Überzeugungen ändern muss.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 6,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 1,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_AOT_5",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nSelbst wenn es konkrete Belege gegen das gibt, was man für wahr hält, ist es in Ordnung, an geschätzten Überzeugungen festzuhalten.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 6,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 1,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_AOT_6",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nUnabhängig vom Thema ist das, was man für wahr hält, wichtiger als die Belege, die gegen die eigenen Überzeugungen sprechen.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 6,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 1,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_CMT_7",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nIch denke, es gibt für fast alles viele falsche Wege, aber nur einen richtigen.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 6,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_CMT_8",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nMeiner Erfahrung nach ist die Wahrheit oft schwarz oder weiß.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 6,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_CMT_9",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nDie Wahrheit ist nie relativ.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 6,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_CMT_10",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nDie Wahrheit verändert sich nicht.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 6,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_CMT_11",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nEntweder etwas ist wahr oder es ist falsch; es gibt nichts dazwischen.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 6,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_CMT_12",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nEs gibt keinen Mittelweg zwischen dem, was wahr ist, und dem, was falsch ist.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 6,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_PIT_13",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nIch verlasse mich gerne auf meine intuitiven Eindrücke.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 6,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_PIT_14",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nIch glaube es ist richtig, meinem Bauchgefühl zu vertrauen.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 6,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_PIT_15",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nWenn ich Entscheidungen treffe, neige ich dazu, mich auf meine Intuition zu verlassen.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 6,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_PIT_16",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nMeinem Bauchgefühl zu folgen, funktioniert normalerweise gut, um Probleme in meinem Leben zu lösen.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 6,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_PIT_17",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nIntuition ist die beste Hilfe, um Entscheidungen zu treffen.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 6,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_PIT_18",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nIch folge oft meinen Instinkten, wenn ich mich für eine Vorgehensweise entscheide.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 6,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_PET_19",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nIch bin nicht so gut darin, komplizierte Probleme zu lösen.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 6,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 1,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_PET_20",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nNachdenken entspricht nicht meiner Vorstellung von einer angenehmen Tätigkeit.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 6,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 1,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_PET_21",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nIch versuche, Situationen zu vermeiden, die gründliches Nachdenken erfordern.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 6,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 1,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_PET_22",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nIch bin kein besonders analytischer Denker.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 6,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 1,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_PET_23",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nDinge sorgfältig zu durchdenken, gehört nicht zu meinen Stärken.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 6,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 1,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_PET_24",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nÜber etwas lange und intensiv nachzudenken, befriedigt mich kaum.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 6,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 1,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CTSQ_attention",
+    "var_label": "Wie sehr stimmen Sie dieser Aussage zu oder nicht zu?\n\nWählen Sie bitte hier die Antwortoption \"Stimme eher zu\" aus, um zu zeigen, dass Sie aufmerksam lesen.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 6,
+        "label": "Stimme überhaupt nicht zu"
+      },
+      {
+        "value": 5,
+        "label": "Stimme nicht zu"
+      },
+      {
+        "value": 4,
+        "label": "Stimme eher nicht zu"
+      },
+      {
+        "value": 3,
+        "label": "Stimme eher zu"
+      },
+      {
+        "value": 2,
+        "label": "Stimme zu"
+      },
+      {
+        "value": 1,
+        "label": "Stimme voll und ganz zu"
+      }
+    ]
+  },
+  {
+    "varname": "CRT_1_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_1_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_1_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_1_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_1_1",
+    "var_label": "Mark und Adam sind insgesamt 28 Jahre alt. Mark ist 20 Jahre älter als Adam. Wie alt ist Adam in Jahren?\n\nBitte nur die Ziffer(n) angeben. - Alter:",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_2_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_2_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_2_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_2_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_2_1",
+    "var_label": "Wenn 10 Drucker 10 Sekunden brauchen, um 10 Seiten Papier auszudrucken, wie viele Sekunden brauchen dann 50 Drucker, um 50 Seiten Papier auszudrucken? \n\nBitte nur die Ziffer(n) angeben. - Sekunden:",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_3_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_3_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_3_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_3_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_3_4",
+    "var_label": "Auf einem Laib Brot ist ein Schimmelfleck. Jeden Tag verdoppelt sich die Größe des Flecks. Wenn es 40 Tage dauert, bis der Fleck den ganzen Brotlaib bedeckt, wie viele Tage würde es dann dauern, bis der Fleck die Hälfte des Brotes bedeckt?\n\nBitte nur die Ziffer(n) angeben. - Anzahl Tage:",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_4_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_4_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_4_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_4_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_4_4",
+    "var_label": "Wenn man ein Rennen läuft und die Person auf dem zweiten Platz überholt, auf welchem Platz ist man dann? \n\nBitte nur die Ziffer angeben. - Auf Platz",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_5_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_5_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_5_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_5_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_5_4",
+    "var_label": "Ein Bauer hatte 15 Schafe und alle bis auf 8 sind gestorben. Wie viele sind übrig geblieben?\n\nBitte nur die Ziffer(n) angeben. - Übrige Schafe:",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_6_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_6_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_6_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_6_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_6_4",
+    "var_label": "Emilys Vater hat drei Töchter. Die ersten beiden heißen April und Mai. Wie heißt die dritte Tochter?\n\nBitte nur einen Namen angeben. - Name:",
+    "class": "character",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_7_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_7_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_7_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_7_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_7",
+    "var_label": "Wie viele Kubikmeter Erde sind in einem Loch, welches 3 Meter tief, 3 Meter breit und 3 Meter lang ist?\n\nBitte nur die Ziffer(n) angeben.",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_8_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_8_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_8_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_8_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_8_4",
+    "var_label": "Sie haben nur ein Streichholz und gehen in einen dunklen Raum, in dem sich eine Öllampe, eine Zeitung und Feuerholz befinden. Was zünden Sie zuerst an? - Ich zünde zuerst an:",
+    "class": "character",
+    "value_labels": []
+  },
+  {
+    "varname": "CRT_gesehen_1",
+    "var_label": "Geben Sie für jede Aufgabe an, ob Sie diese schon einmal gesehen haben - Mark und Adam Alter",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "ja"
+      },
+      {
+        "value": 2,
+        "label": "nein"
+      }
+    ]
+  },
+  {
+    "varname": "CRT_gesehen_2",
+    "var_label": "Geben Sie für jede Aufgabe an, ob Sie diese schon einmal gesehen haben - Drucker",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "ja"
+      },
+      {
+        "value": 2,
+        "label": "nein"
+      }
+    ]
+  },
+  {
+    "varname": "CRT_gesehen_3",
+    "var_label": "Geben Sie für jede Aufgabe an, ob Sie diese schon einmal gesehen haben - Schimmel auf Brot",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "ja"
+      },
+      {
+        "value": 2,
+        "label": "nein"
+      }
+    ]
+  },
+  {
+    "varname": "CRT_gesehen_4",
+    "var_label": "Geben Sie für jede Aufgabe an, ob Sie diese schon einmal gesehen haben - Im Rennen überholen",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "ja"
+      },
+      {
+        "value": 2,
+        "label": "nein"
+      }
+    ]
+  },
+  {
+    "varname": "CRT_gesehen_5",
+    "var_label": "Geben Sie für jede Aufgabe an, ob Sie diese schon einmal gesehen haben - Gestorbene Schafe",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "ja"
+      },
+      {
+        "value": 2,
+        "label": "nein"
+      }
+    ]
+  },
+  {
+    "varname": "CRT_gesehen_6",
+    "var_label": "Geben Sie für jede Aufgabe an, ob Sie diese schon einmal gesehen haben - Namen der Töchter",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "ja"
+      },
+      {
+        "value": 2,
+        "label": "nein"
+      }
+    ]
+  },
+  {
+    "varname": "CRT_gesehen_7",
+    "var_label": "Geben Sie für jede Aufgabe an, ob Sie diese schon einmal gesehen haben - Loch und Erde",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "ja"
+      },
+      {
+        "value": 2,
+        "label": "nein"
+      }
+    ]
+  },
+  {
+    "varname": "CRT_gesehen_8",
+    "var_label": "Geben Sie für jede Aufgabe an, ob Sie diese schon einmal gesehen haben - Dunkler Raum",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "ja"
+      },
+      {
+        "value": 2,
+        "label": "nein"
+      }
+    ]
+  },
+  {
+    "varname": "CRT_hilfsmittel_1",
+    "var_label": "Bitte beantworten Sie diese Frage wahrheitsgemäß.\n\nIhre Antwort ist anonym, wie alle anderen Antworten.\n\nAuch bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben.\n\n\n\nHaben Sie Hilfsmittel benutzt, um die Fragen zu beantworten? - Selected Choice Ich habe keine Hilfsmittel verwendet",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Ich habe keine Hilfsmittel verwendet"
+      }
+    ]
+  },
+  {
+    "varname": "CRT_hilfsmittel_2",
+    "var_label": "Bitte beantworten Sie diese Frage wahrheitsgemäß.\n\nIhre Antwort ist anonym, wie alle anderen Antworten.\n\nAuch bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben.\n\n\n\nHaben Sie Hilfsmittel benutzt, um die Fragen zu beantworten? - Selected Choice Suchmaschine (z.B. Google)",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Suchmaschine (z.B. Google)"
+      }
+    ]
+  },
+  {
+    "varname": "CRT_hilfsmittel_3",
+    "var_label": "Bitte beantworten Sie diese Frage wahrheitsgemäß.\n\nIhre Antwort ist anonym, wie alle anderen Antworten.\n\nAuch bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben.\n\n\n\nHaben Sie Hilfsmittel benutzt, um die Fragen zu beantworten? - Selected Choice Sprachmodell (z.B. chatGPT)",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Sprachmodell (z.B. chatGPT)"
+      }
+    ]
+  },
+  {
+    "varname": "CRT_hilfsmittel_4",
+    "var_label": "Bitte beantworten Sie diese Frage wahrheitsgemäß.\n\nIhre Antwort ist anonym, wie alle anderen Antworten.\n\nAuch bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben.\n\n\n\nHaben Sie Hilfsmittel benutzt, um die Fragen zu beantworten? - Selected Choice andere und zwar:",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "andere und zwar:"
+      }
+    ]
+  },
+  {
+    "varname": "CRT_hilfsmittel_4_TEXT",
+    "var_label": "Bitte beantworten Sie diese Frage wahrheitsgemäß.\n\nIhre Antwort ist anonym, wie alle anderen Antworten.\n\nAuch bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben.\n\n\n\nHaben Sie Hilfsmittel benutzt, um die Fragen zu beantworten? - andere und zwar: – Text",
+    "class": "character",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_1",
+    "var_label": "Eine Stadt wird von zwei Krankenhäusern versorgt. Im größeren Krankenhaus werden täglich etwa 45 Babys geboren und im kleineren Krankenhaus etwa 15 Babys pro Tag. Durchschnittlich sind 50 Prozent aller Babys Jungen. Der genaue Prozentsatz schwankt jedoch von Tag zu Tag. Manchmal ist er höher als 50 Prozent, manchmal niedriger. Über einen Zeitraum von einem Jahr hat jedes Krankenhaus die Tage aufgezeichnet, an denen mehr als 60 Prozent der Neugeborenen Jungen waren. Welches Krankenhaus verzeichnete Ihrer Meinung nach mehr solcher Tage?",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 0,
+        "label": "Das größere Krankenhaus"
+      },
+      {
+        "value": 1,
+        "label": "Das kleinere Krankenhaus"
+      },
+      {
+        "value": 2,
+        "label": "Beide ungefähr gleich (d. h. sie weichen nicht mehr als 5 Prozent voneinander ab)"
+      }
+    ]
+  },
+  {
+    "varname": "HB_1_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_1_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_1_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_1_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_2",
+    "var_label": "Stellen Sie sich vor, wir werfen eine faire Münze (eine Münze, bei der die Wahrscheinlichkeit, dass sie Kopf oder Zahl zeigt, 50:50 beträgt). Diese Münze ist gerade 5 Mal hintereinander auf Kopf gefallen. \n\nWas glauben Sie: \n\nBeim 6. Wurf…",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 0,
+        "label": "...ist es wahrscheinlicher, dass Zahl herauskommt als Kopf."
+      },
+      {
+        "value": 1,
+        "label": "...ist es wahrscheinlicher, dass Kopf herauskommt als Zahl."
+      },
+      {
+        "value": 2,
+        "label": "...sind Kopf und Zahl gleich wahrscheinlich."
+      }
+    ]
+  },
+  {
+    "varname": "HB_2_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_2_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_2_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_2_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_3",
+    "var_label": "Linda ist 31 Jahre alt, ledig, aufgeschlossen und sehr intelligent. Sie hat Philosophie studiert. Als Studentin beschäftigte sie sich intensiv mit Fragen der Diskriminierung und sozialen Gerechtigkeit und nahm auch an Fridays for Future Demonstrationen teil. Welche Aussage ist wahrscheinlicher?",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 0,
+        "label": "Linda ist Bankangestellte."
+      },
+      {
+        "value": 1,
+        "label": "Linda ist Bankangestellte und engagiert sich in der Frauenbewegung."
+      }
+    ]
+  },
+  {
+    "varname": "HB_3_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_3_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_3_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_3_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_4",
+    "var_label": "Zwei Tischtennisspieler (Spieler A und Spieler B) überlegen, ob sie ein Spiel bis 9 oder bis 15 Punkte spielen sollen. Spieler A ist der bessere Spieler. Bei welcher der beiden Spielformen hat Spieler A eine größere Chance zu gewinnen?",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 0,
+        "label": "9"
+      },
+      {
+        "value": 1,
+        "label": "15"
+      },
+      {
+        "value": 2,
+        "label": "Bei beiden Spielformen sind die Gewinnchancen für A gleich"
+      }
+    ]
+  },
+  {
+    "varname": "HB_4_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_4_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_4_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_4_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_5",
+    "var_label": "Ein Würfel hat 4 rote und 2 grüne Seiten und wird 60 Mal geworfen. Sie werden vor jedem Wurf gefragt, welche Farbe geworfen wird. Für jede richtige Vorhersage bekommen Sie 5 Euro. Welche der folgenden Strategien würden Sie wählen?",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Ich würde mich auf mein Bauchgefühl verlassen. Wenn eine Farbe zu häufig erscheint, ändere ich meine Vorhersage."
+      },
+      {
+        "value": 2,
+        "label": "Ich wähle die meiste Zeit die wahrscheinlichere rote Farbe. Nach einer langen Serie von Rot sage ich aber auch manchmal Grün vorher."
+      },
+      {
+        "value": 3,
+        "label": "Ich mache die Vorhersage entsprechend der Häufigkeit des Auftretens (4 von 6 für Rot; 2 von 6 für Grün). Das bedeutet, ich sage doppelt so häufig  rote Würfe wie grüne vorher."
+      },
+      {
+        "value": 4,
+        "label": "Bei allen 60 Würfen sage ich die Farbe Rot vorher."
+      }
+    ]
+  },
+  {
+    "varname": "HB_5_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_5_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_5_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_5_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_6",
+    "var_label": "Sie übernachten in einem Hotel. \n\nSie haben 6,95 Euro bezahlt, um einen Film im Pay-TV zu sehen. \n\nNach 5 Minuten merken Sie, dass der Film langweilig ist. Würden Sie den Film weiter anschauen oder nicht?",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 0,
+        "label": "Ich schaue den Film weiter"
+      },
+      {
+        "value": 1,
+        "label": "Ich mache den Film aus"
+      }
+    ]
+  },
+  {
+    "varname": "HB_6_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_6_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_6_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_6_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_7",
+    "var_label": "Sie übernachten in einem Hotel. \n\nSie schalten den Fernseher ein und es läuft ein Film. \n\nNach 5 Minuten merken Sie, dass der Film langweilig ist. Würden Sie den Film weiter anschauen oder nicht?",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 0,
+        "label": "Ich schaue den Film weiter"
+      },
+      {
+        "value": 1,
+        "label": "Ich mache den Film aus"
+      }
+    ]
+  },
+  {
+    "varname": "HB_7_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_7_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_7_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_7_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_8",
+    "var_label": "Die Müllers wollen beim nächsten Autokauf ein sicheres und langlebiges schwedisches Auto: entweder einen Volvo oder einen Saab. Ihr altes Auto geht genau am letzten Tag eines Sonderrabattes kaputt, der für Volvo und Saab gilt. Ab morgen fällt der Rabatt weg, also müssen sie sich heute entscheiden. Beide Autos kosten in etwa gleich viel.\n\n\nIn Verbraucherberichten lesen sie: Beide Marken gelten als sehr zuverlässig, aber Volvo wird als etwas besser eingestuft und Volvo-Besitzer berichten insgesamt von weniger Problemen als Saab-Besitzer. \n\nBevor sie zum Volvo-Händler fahren, rufen sie drei Freunde an: Die zwei Saab-Besitzer berichten von kleineren, aber nicht schlimmen Problemen. Der Volvo-Besitzer dagegen antwortet wütend: \"Erst ging ein teures Computerteil der Einspritzung kaputt, dann gab es Probleme mit dem Heck, danach mit Getriebe und Kupplung.\" Nach drei Jahren hat er den Volvo schließlich als Schrott verkauft.\n\n\nAngesichts dessen, dass die Müllers heute entweder einen Volvo oder einen Saab ka",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Sie sollten auf jeden Fall einen Saab kaufen."
+      },
+      {
+        "value": 2,
+        "label": "Sie sollten eher einen Saab kaufen."
+      },
+      {
+        "value": 3,
+        "label": "Sie sollten eher einen Volvo kaufen."
+      },
+      {
+        "value": 4,
+        "label": "Sie sollten auf jeden Fall einen Volvo kaufen."
+      }
+    ]
+  },
+  {
+    "varname": "HB_8_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_8_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_8_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_8_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_9",
+    "var_label": "An einer kleinen Universität studieren 4 von 5 Studierenden Psychologie und 1 von 5 Philosophie.\n\nSie lesen folgenden Text über Anna:\n\"Anna liest gern anspruchsvolle Literatur und diskutiert viel über Ethik und Sinnfragen.\"\n\nWas ist wahrscheinlicher?",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Anna studiert Psychologie"
+      },
+      {
+        "value": 2,
+        "label": "Anna studiert Philosophie"
+      }
+    ]
+  },
+  {
+    "varname": "HB_9_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_9_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_9_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_9_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_10",
+    "var_label": "Auf einer Party sind 4 männliche Professoren und 8 männliche Führungskräfte.\n\nVon den 4 Professoren sind 3 Mitglied im „Bear’s Club“.\n\nVon den 8 Führungskräften sind 4 Mitglied im „Bear’s Club“.\n\nSie wissen: David ist Mitglied im „Bear’s Club“.\n\nWas ist wahrscheinlicher?",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "David ist Professor"
+      },
+      {
+        "value": 2,
+        "label": "David ist Führungskraft"
+      },
+      {
+        "value": 3,
+        "label": "Beides ist gleich wahrscheinlich"
+      }
+    ]
+  },
+  {
+    "varname": "HB_10_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_10_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_10_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_10_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_11",
+    "var_label": "Vor Ihnen befinden sich zwei Tabletts mit schwarzen und weißen Murmeln: ein großes Tablett mit 100 Murmeln und ein kleines Tablett mit 10 Murmeln. Die Murmeln sind in einer einzigen Schicht auf dem Tablett verteilt.\n\nSie müssen, natürlich ohne hinzusehen, von einem der Tabletts ziehen. Wenn Sie eine schwarze Murmel ziehen, gewinnen Sie 5 Euro. \n\nDas kleine Tablett enthält 1 schwarze und 9 weiße Murmeln.\nDas große Tablett enthält 8 schwarze und 92 weiße Murmeln. \n\nVon welchem Tablett würden Sie lieber eine Murmel ziehen?",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Aus dem kleinen Tablett (10 Kugeln)"
+      },
+      {
+        "value": 2,
+        "label": "Aus dem großen Tablett (100 Kugeln)"
+      }
+    ]
+  },
+  {
+    "varname": "HB_11_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_11_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_11_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_11_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_12",
+    "var_label": "Beim Spielen an Spielautomaten gewinnt man etwa 1 Mal von 10 Versuchen etwas. Julie hat jedoch gerade bei ihren ersten drei Versuchen gewonnen.\n\nWie hoch ist Julies Chance beim nächsten Spiel zu gewinnen? Geben Sie ihre Chance auf einer Skala von 1 bis 10 an.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "0"
+      },
+      {
+        "value": 2,
+        "label": "1"
+      },
+      {
+        "value": 3,
+        "label": "2"
+      },
+      {
+        "value": 4,
+        "label": "3"
+      },
+      {
+        "value": 5,
+        "label": "4"
+      },
+      {
+        "value": 6,
+        "label": "5"
+      },
+      {
+        "value": 7,
+        "label": "6"
+      },
+      {
+        "value": 8,
+        "label": "7"
+      },
+      {
+        "value": 9,
+        "label": "8"
+      },
+      {
+        "value": 10,
+        "label": "9"
+      },
+      {
+        "value": 11,
+        "label": "10"
+      }
+    ]
+  },
+  {
+    "varname": "HB_12_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_12_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_12_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_12_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_14",
+    "var_label": "Ein  55-jähriger Mann hatte ein Herzleiden. Wegen Brustschmerzen musste er aufhören zu arbeiten. Er mochte seine Arbeit und wollte nicht aufhören. Seine Schmerzen beeinträchtigten auch andere Dinge, wie Reisen und Freizeitaktivitäten. Eine Bypass-Operation würde seine Schmerzen lindern und seine Lebenserwartung von 65 auf 70 Jahre erhöhen. Allerdings sterben 8 % der Menschen, die sich dieser Operation unterziehen, an den Folgen der Operation.\n\n\n\nFall 1:\n\nSein Arzt entschied sich, die Operation durchzuführen.\n\nDie Operation ist fehlgeschlagen und der Mann ist gestorben.\n\n\n\nBewerten Sie die Entscheidung des Arztes, die Operation durchzuführen.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Völlig richtig"
+      },
+      {
+        "value": 2,
+        "label": "Eher richtig"
+      },
+      {
+        "value": 3,
+        "label": "Weder richtig noch falsch"
+      },
+      {
+        "value": 4,
+        "label": "Eher falsch"
+      },
+      {
+        "value": 5,
+        "label": "Völlig falsch"
+      }
+    ]
+  },
+  {
+    "varname": "HB_14_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_14_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_14_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_14_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_13",
+    "var_label": "Nun ein sehr ählicher Fall:\n\n\n\nEin 55-jähriger Mann hatte ein Herzleiden. Wegen Brustschmerzen musste er aufhören zu arbeiten. Er mochte seine Arbeit und wollte nicht aufhören. Seine Schmerzen beeinträchtigten auch andere Dinge, wie Reisen und Freizeitaktivitäten. Eine Bypass-Operation würde seine Schmerzen lindern und seine Lebenserwartung von 65 auf 70 Jahre erhöhen. Allerdings sterben 8 % der Menschen, die sich dieser Operation unterziehen, an den Folgen der Operation.\n\n\n\nFall 2:\n\nSein Arzt entschied sich, die Operation durchzuführen.\n\nDie Operation war erfolgreich.\n\n\n\nBewerten Sie die Entscheidung des Arztes, die Operation durchzuführen.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Völlig richtig"
+      },
+      {
+        "value": 2,
+        "label": "Eher richtig"
+      },
+      {
+        "value": 3,
+        "label": "Weder richtig noch falsch"
+      },
+      {
+        "value": 4,
+        "label": "Eher falsch"
+      },
+      {
+        "value": 5,
+        "label": "Völlig falsch"
+      }
+    ]
+  },
+  {
+    "varname": "HB_13_timing_First_Click",
+    "var_label": "Timing – Erster Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_13_timing_Last_Click",
+    "var_label": "Timing – Letzter Klick",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_13_timing_Page_Submit",
+    "var_label": "Timing – Seite absenden",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_13_timing_Click_Count",
+    "var_label": "Timing – Auf Anzahl klicken",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "HB_hilfsmittel_1",
+    "var_label": "Bitte beantworten Sie diese Frage wahrheitsgemäß.\n\nIhre Antwort ist anonym, wie alle anderen Antworten.\n\nAuch bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben sollten.\n\n\n\nHaben Sie Hilfsmittel benutzt, um die Fragen zu beantworten? - Selected Choice Ich habe keine Hilfsmittel verwendet",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Ich habe keine Hilfsmittel verwendet"
+      }
+    ]
+  },
+  {
+    "varname": "HB_hilfsmittel_2",
+    "var_label": "Bitte beantworten Sie diese Frage wahrheitsgemäß.\n\nIhre Antwort ist anonym, wie alle anderen Antworten.\n\nAuch bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben sollten.\n\n\n\nHaben Sie Hilfsmittel benutzt, um die Fragen zu beantworten? - Selected Choice Suchmaschine (z.B. Google)",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Suchmaschine (z.B. Google)"
+      }
+    ]
+  },
+  {
+    "varname": "HB_hilfsmittel_3",
+    "var_label": "Bitte beantworten Sie diese Frage wahrheitsgemäß.\n\nIhre Antwort ist anonym, wie alle anderen Antworten.\n\nAuch bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben sollten.\n\n\n\nHaben Sie Hilfsmittel benutzt, um die Fragen zu beantworten? - Selected Choice Sprachmodell (z.B. chatGPT)",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Sprachmodell (z.B. chatGPT)"
+      }
+    ]
+  },
+  {
+    "varname": "HB_hilfsmittel_4",
+    "var_label": "Bitte beantworten Sie diese Frage wahrheitsgemäß.\n\nIhre Antwort ist anonym, wie alle anderen Antworten.\n\nAuch bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben sollten.\n\n\n\nHaben Sie Hilfsmittel benutzt, um die Fragen zu beantworten? - Selected Choice andere und zwar:",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "andere und zwar:"
+      }
+    ]
+  },
+  {
+    "varname": "HB_hilfsmittel_4_TEXT",
+    "var_label": "Bitte beantworten Sie diese Frage wahrheitsgemäß.\n\nIhre Antwort ist anonym, wie alle anderen Antworten.\n\nAuch bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben sollten.\n\n\n\nHaben Sie Hilfsmittel benutzt, um die Fragen zu beantworten? - andere und zwar: – Text",
+    "class": "character",
+    "value_labels": []
+  },
+  {
+    "varname": "pol_scalo_spd",
+    "var_label": "Was halten Sie von der SPD?",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": -3,
+        "label": "-3 überhaupt nichts"
+      },
+      {
+        "value": -2,
+        "label": "-2"
+      },
+      {
+        "value": -1,
+        "label": "-1"
+      },
+      {
+        "value": 0,
+        "label": "0"
+      },
+      {
+        "value": 1,
+        "label": "+1"
+      },
+      {
+        "value": 2,
+        "label": "+2"
+      },
+      {
+        "value": 3,
+        "label": "+3 sehr viel"
+      }
+    ]
+  },
+  {
+    "varname": "pol_scalo_cdu",
+    "var_label": "Was halten Sie von CDU/CSU?",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": -3,
+        "label": "-3 überhaupt nichts"
+      },
+      {
+        "value": -2,
+        "label": "-2"
+      },
+      {
+        "value": -1,
+        "label": "-1"
+      },
+      {
+        "value": 0,
+        "label": "0"
+      },
+      {
+        "value": 1,
+        "label": "+1"
+      },
+      {
+        "value": 2,
+        "label": "+2"
+      },
+      {
+        "value": 3,
+        "label": "+3 sehr viel"
+      }
+    ]
+  },
+  {
+    "varname": "pol_scalo_greens",
+    "var_label": "Was halten Sie von den Grünen?",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": -3,
+        "label": "-3 überhaupt nichts"
+      },
+      {
+        "value": -2,
+        "label": "-2"
+      },
+      {
+        "value": -1,
+        "label": "-1"
+      },
+      {
+        "value": 0,
+        "label": "0"
+      },
+      {
+        "value": 1,
+        "label": "+1"
+      },
+      {
+        "value": 2,
+        "label": "+2"
+      },
+      {
+        "value": 3,
+        "label": "+3 sehr viel"
+      }
+    ]
+  },
+  {
+    "varname": "pol_scalo_liberals",
+    "var_label": "Was halten Sie von der FDP?",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": -3,
+        "label": "-3 überhaupt nichts"
+      },
+      {
+        "value": -2,
+        "label": "-2"
+      },
+      {
+        "value": -1,
+        "label": "-1"
+      },
+      {
+        "value": 0,
+        "label": "0"
+      },
+      {
+        "value": 1,
+        "label": "+1"
+      },
+      {
+        "value": 2,
+        "label": "+2"
+      },
+      {
+        "value": 3,
+        "label": "+3 sehr viel"
+      }
+    ]
+  },
+  {
+    "varname": "pol_scalo_afd",
+    "var_label": "Was halten Sie von der AfD?",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": -3,
+        "label": "-3 überhaupt nichts"
+      },
+      {
+        "value": -2,
+        "label": "-2"
+      },
+      {
+        "value": -1,
+        "label": "-1"
+      },
+      {
+        "value": 0,
+        "label": "0"
+      },
+      {
+        "value": 1,
+        "label": "+1"
+      },
+      {
+        "value": 2,
+        "label": "+2"
+      },
+      {
+        "value": 3,
+        "label": "+3 sehr viel"
+      }
+    ]
+  },
+  {
+    "varname": "pol_scalo_left",
+    "var_label": "Was halten Sie von der Linken?",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": -3,
+        "label": "-3 überhaupt nichts"
+      },
+      {
+        "value": -2,
+        "label": "-2"
+      },
+      {
+        "value": -1,
+        "label": "-1"
+      },
+      {
+        "value": 0,
+        "label": "0"
+      },
+      {
+        "value": 1,
+        "label": "+1"
+      },
+      {
+        "value": 2,
+        "label": "+2"
+      },
+      {
+        "value": 3,
+        "label": "+3 sehr viel"
+      }
+    ]
+  },
+  {
+    "varname": "pol_vote",
+    "var_label": "Wenn am nächsten Sonntag Bundestagswahl wäre, würden Sie wählen gehen?",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Ja"
+      },
+      {
+        "value": 2,
+        "label": "Nein"
+      }
+    ]
+  },
+  {
+    "varname": "pol_party",
+    "var_label": "Wenn am nächsten Sonntag Bundestagswahl wäre, welche Partei würden Sie wählen? - Selected Choice",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "CDU/CSU"
+      },
+      {
+        "value": 2,
+        "label": "SPD"
+      },
+      {
+        "value": 3,
+        "label": "AfD"
+      },
+      {
+        "value": 4,
+        "label": "Bündnis '90 / Die Grünen"
+      },
+      {
+        "value": 5,
+        "label": "FDP"
+      },
+      {
+        "value": 6,
+        "label": "Die Linke"
+      },
+      {
+        "value": 7,
+        "label": "Die PARTEI"
+      },
+      {
+        "value": 8,
+        "label": "Bündnis Sahra Wagenknecht"
+      },
+      {
+        "value": 9,
+        "label": "Volt"
+      },
+      {
+        "value": 10,
+        "label": "Tierschutzpartei"
+      },
+      {
+        "value": 11,
+        "label": "BÜNDNIS DEUTSCHLAND"
+      },
+      {
+        "value": 12,
+        "label": "Eine andere Partei und zwar"
+      }
+    ]
+  },
+  {
+    "varname": "pol_party_12_TEXT",
+    "var_label": "Wenn am nächsten Sonntag Bundestagswahl wäre, welche Partei würden Sie wählen? - Eine andere Partei und zwar – Text",
+    "class": "character",
+    "value_labels": []
+  },
+  {
+    "varname": "pol_leftright",
+    "var_label": "In der Politik spricht man manchmal von \"links\" und \"rechts\". Wo auf der Skala  würden Sie sich selbst einstufen, wenn 0 für links steht und 10 für rechts?",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "0 - links"
+      },
+      {
+        "value": 2,
+        "label": "1"
+      },
+      {
+        "value": 3,
+        "label": "2"
+      },
+      {
+        "value": 4,
+        "label": "3"
+      },
+      {
+        "value": 5,
+        "label": "4"
+      },
+      {
+        "value": 6,
+        "label": "5"
+      },
+      {
+        "value": 7,
+        "label": "6"
+      },
+      {
+        "value": 8,
+        "label": "7"
+      },
+      {
+        "value": 9,
+        "label": "8"
+      },
+      {
+        "value": 10,
+        "label": "9"
+      },
+      {
+        "value": 11,
+        "label": "10 - rechts"
+      }
+    ]
+  },
+  {
+    "varname": "demo_gender",
+    "var_label": "Was ist Ihr Geschlecht?",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "Männlich"
+      },
+      {
+        "value": 2,
+        "label": "Weiblich"
+      },
+      {
+        "value": 3,
+        "label": "Divers"
+      },
+      {
+        "value": 4,
+        "label": "Keine Angabe"
+      }
+    ]
+  },
+  {
+    "varname": "demo_age",
+    "var_label": "Wie alt sind Sie in Jahren?",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "demo_edu",
+    "var_label": "Welchen Schulabschluss haben Sie? - Selected Choice",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 2,
+        "label": "Abitur, Fachhochschulreife oder gleichwertigen Abschluss"
+      },
+      {
+        "value": 1,
+        "label": "Mittlere Reife, Realschulabschluss, Abschluss der Polytechnischen Oberschule (10. Klasse) oder gleichwertigen Abschluss"
+      },
+      {
+        "value": 3,
+        "label": "Mittelschulabschluss oder gleichwertigen Abschluss"
+      },
+      {
+        "value": 4,
+        "label": "Keinen Schulabschluss"
+      },
+      {
+        "value": 5,
+        "label": "Einen anderen Schulabschluss und zwar"
+      }
+    ]
+  },
+  {
+    "varname": "demo_edu_5_TEXT",
+    "var_label": "Welchen Schulabschluss haben Sie? - Einen anderen Schulabschluss und zwar – Text",
+    "class": "character",
+    "value_labels": []
+  },
+  {
+    "varname": "demo_profession",
+    "var_label": "Was ist Ihr höchster beruflicher Abschluss?",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "kein Ausbildungs- oder Hochschulabschluss"
+      },
+      {
+        "value": 2,
+        "label": "Bin zurzeit in Schule/Ausbildung/Studium"
+      },
+      {
+        "value": 3,
+        "label": "Anlernausbildung"
+      },
+      {
+        "value": 4,
+        "label": "Lehre oder Berufsausbildung"
+      },
+      {
+        "value": 5,
+        "label": "Abgeschlossenes Studium"
+      }
+    ]
+  },
+  {
+    "varname": "demo_income",
+    "var_label": "Folgend sehen Sie eine Liste mit Einkommensklassen. Bitte geben Sie an, in welcher Klasse sich Ihr\nHaushalt befindet, wenn Sie das Nettoeinkommen aller Haushaltsmitglieder zusammenzählen: Löhne,\nRenten und andere Einkommen nach allen Abzügen für Steuern und Sozialversicherungen.",
+    "class": "haven_labelled|vctrs_vctr|double",
+    "value_labels": [
+      {
+        "value": 1,
+        "label": "unter 1250 €"
+      },
+      {
+        "value": 2,
+        "label": "1250 € bis unter 1750 €"
+      },
+      {
+        "value": 3,
+        "label": "1750 € bis unter 2250 €"
+      },
+      {
+        "value": 4,
+        "label": "2250 € bis 3000 €"
+      },
+      {
+        "value": 5,
+        "label": "3000 € bis unter 4000 €"
+      },
+      {
+        "value": 6,
+        "label": "4000 € bis unter 5000 €"
+      },
+      {
+        "value": 7,
+        "label": "5000 € und mehr"
+      },
+      {
+        "value": 8,
+        "label": "Keine Angabe"
+      }
+    ]
+  },
+  {
+    "varname": "demo_hhmembers",
+    "var_label": "Wie viele Personen leben ständig in Ihrem Haushalt, Sie selbst eingeschlossen? Zu diesem Haushalt zählen alle Personen, die hier gemeinsam wohnen und wirtschaften (z.B. vom gleichen Einkommen leben). Denken Sie auch an alle im Haushalt lebenden Kinder.",
+    "class": "numeric",
+    "value_labels": []
+  },
+  {
+    "varname": "Kommentarfeld",
+    "var_label": "Gibt es noch etwas, das Sie uns mitteilen möchten?",
+    "class": "character",
+    "value_labels": []
+  },
+  {
+    "varname": "respondiID",
+    "var_label": "respondiID",
+    "class": "character",
+    "value_labels": []
+  },
+  {
+    "varname": "quality",
+    "var_label": "quality",
+    "class": "character",
+    "value_labels": []
+  },
+  {
+    "varname": "workflow",
+    "var_label": "workflow",
+    "class": "character",
+    "value_labels": []
+  },
+  {
+    "varname": "Q_surveyVersionID",
+    "var_label": "Q_surveyVersionID",
+    "class": "character",
+    "value_labels": []
+  }
+]

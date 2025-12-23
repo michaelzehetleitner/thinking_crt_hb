@@ -1,0 +1,9 @@
+reason,count,total_start
+total_after_prereg,377,404
+no_consent,0,404
+aid_used,27,404
+attention_flagged,0,404
+total_after_filters,377,404
+crt_all_dropped,93,404
+hb_all_dropped,0,404
+both_crt_hb_dropped,0,404

@@ -1,0 +1,137 @@
+item,item_text,response_display,incorrect,correct,missing,seen
+crt_1_1_num,"Mark und Adam sind insgesamt 28 Jahre alt. Mark ist 20 Jahre älter als Adam. Wie alt ist Adam in Jahren?
+
+Bitte nur die Ziffer(n) angeben. - Alter:",35,1,0,0,0
+crt_1_1_num,"Mark und Adam sind insgesamt 28 Jahre alt. Mark ist 20 Jahre älter als Adam. Wie alt ist Adam in Jahren?
+
+Bitte nur die Ziffer(n) angeben. - Alter:",4,0,4,5,0
+crt_1_1_num,"Mark und Adam sind insgesamt 28 Jahre alt. Mark ist 20 Jahre älter als Adam. Wie alt ist Adam in Jahren?
+
+Bitte nur die Ziffer(n) angeben. - Alter:",48,0,0,1,0
+crt_1_1_num,"Mark und Adam sind insgesamt 28 Jahre alt. Mark ist 20 Jahre älter als Adam. Wie alt ist Adam in Jahren?
+
+Bitte nur die Ziffer(n) angeben. - Alter:",52,1,0,0,0
+crt_1_1_num,"Mark und Adam sind insgesamt 28 Jahre alt. Mark ist 20 Jahre älter als Adam. Wie alt ist Adam in Jahren?
+
+Bitte nur die Ziffer(n) angeben. - Alter:",8,39,0,22,0
+crt_2_1_num,"Wenn 10 Drucker 10 Sekunden brauchen, um 10 Seiten Papier auszudrucken, wie viele Sekunden brauchen dann 50 Drucker, um 50 Seiten Papier auszudrucken? 
+
+Bitte nur die Ziffer(n) angeben. - Sekunden:",1,2,0,1,0
+crt_2_1_num,"Wenn 10 Drucker 10 Sekunden brauchen, um 10 Seiten Papier auszudrucken, wie viele Sekunden brauchen dann 50 Drucker, um 50 Seiten Papier auszudrucken? 
+
+Bitte nur die Ziffer(n) angeben. - Sekunden:",10,0,21,18,0
+crt_2_1_num,"Wenn 10 Drucker 10 Sekunden brauchen, um 10 Seiten Papier auszudrucken, wie viele Sekunden brauchen dann 50 Drucker, um 50 Seiten Papier auszudrucken? 
+
+Bitte nur die Ziffer(n) angeben. - Sekunden:",5,2,0,0,0
+crt_2_1_num,"Wenn 10 Drucker 10 Sekunden brauchen, um 10 Seiten Papier auszudrucken, wie viele Sekunden brauchen dann 50 Drucker, um 50 Seiten Papier auszudrucken? 
+
+Bitte nur die Ziffer(n) angeben. - Sekunden:",50,15,0,14,0
+crt_3_4_num,"Auf einem Laib Brot ist ein Schimmelfleck. Jeden Tag verdoppelt sich die Größe des Flecks. Wenn es 40 Tage dauert, bis der Fleck den ganzen Brotlaib bedeckt, wie viele Tage würde es dann dauern, bis der Fleck die Hälfte des Brotes bedeckt?
+
+Bitte nur die Ziffer(n) angeben. - Anzahl Tage:",1,0,0,1,0
+crt_3_4_num,"Auf einem Laib Brot ist ein Schimmelfleck. Jeden Tag verdoppelt sich die Größe des Flecks. Wenn es 40 Tage dauert, bis der Fleck den ganzen Brotlaib bedeckt, wie viele Tage würde es dann dauern, bis der Fleck die Hälfte des Brotes bedeckt?
+
+Bitte nur die Ziffer(n) angeben. - Anzahl Tage:",10,5,0,1,0
+crt_3_4_num,"Auf einem Laib Brot ist ein Schimmelfleck. Jeden Tag verdoppelt sich die Größe des Flecks. Wenn es 40 Tage dauert, bis der Fleck den ganzen Brotlaib bedeckt, wie viele Tage würde es dann dauern, bis der Fleck die Hälfte des Brotes bedeckt?
+
+Bitte nur die Ziffer(n) angeben. - Anzahl Tage:",15,1,0,0,0
+crt_3_4_num,"Auf einem Laib Brot ist ein Schimmelfleck. Jeden Tag verdoppelt sich die Größe des Flecks. Wenn es 40 Tage dauert, bis der Fleck den ganzen Brotlaib bedeckt, wie viele Tage würde es dann dauern, bis der Fleck die Hälfte des Brotes bedeckt?
+
+Bitte nur die Ziffer(n) angeben. - Anzahl Tage:",2,0,0,1,0
+crt_3_4_num,"Auf einem Laib Brot ist ein Schimmelfleck. Jeden Tag verdoppelt sich die Größe des Flecks. Wenn es 40 Tage dauert, bis der Fleck den ganzen Brotlaib bedeckt, wie viele Tage würde es dann dauern, bis der Fleck die Hälfte des Brotes bedeckt?
+
+Bitte nur die Ziffer(n) angeben. - Anzahl Tage:",20,20,0,17,0
+crt_3_4_num,"Auf einem Laib Brot ist ein Schimmelfleck. Jeden Tag verdoppelt sich die Größe des Flecks. Wenn es 40 Tage dauert, bis der Fleck den ganzen Brotlaib bedeckt, wie viele Tage würde es dann dauern, bis der Fleck die Hälfte des Brotes bedeckt?
+
+Bitte nur die Ziffer(n) angeben. - Anzahl Tage:",3,0,0,1,0
+crt_3_4_num,"Auf einem Laib Brot ist ein Schimmelfleck. Jeden Tag verdoppelt sich die Größe des Flecks. Wenn es 40 Tage dauert, bis der Fleck den ganzen Brotlaib bedeckt, wie viele Tage würde es dann dauern, bis der Fleck die Hälfte des Brotes bedeckt?
+
+Bitte nur die Ziffer(n) angeben. - Anzahl Tage:",30,0,0,1,0
+crt_3_4_num,"Auf einem Laib Brot ist ein Schimmelfleck. Jeden Tag verdoppelt sich die Größe des Flecks. Wenn es 40 Tage dauert, bis der Fleck den ganzen Brotlaib bedeckt, wie viele Tage würde es dann dauern, bis der Fleck die Hälfte des Brotes bedeckt?
+
+Bitte nur die Ziffer(n) angeben. - Anzahl Tage:",39,0,11,10,0
+crt_3_4_num,"Auf einem Laib Brot ist ein Schimmelfleck. Jeden Tag verdoppelt sich die Größe des Flecks. Wenn es 40 Tage dauert, bis der Fleck den ganzen Brotlaib bedeckt, wie viele Tage würde es dann dauern, bis der Fleck die Hälfte des Brotes bedeckt?
+
+Bitte nur die Ziffer(n) angeben. - Anzahl Tage:",4,0,0,1,0
+crt_3_4_num,"Auf einem Laib Brot ist ein Schimmelfleck. Jeden Tag verdoppelt sich die Größe des Flecks. Wenn es 40 Tage dauert, bis der Fleck den ganzen Brotlaib bedeckt, wie viele Tage würde es dann dauern, bis der Fleck die Hälfte des Brotes bedeckt?
+
+Bitte nur die Ziffer(n) angeben. - Anzahl Tage:",40,0,0,1,0
+crt_3_4_num,"Auf einem Laib Brot ist ein Schimmelfleck. Jeden Tag verdoppelt sich die Größe des Flecks. Wenn es 40 Tage dauert, bis der Fleck den ganzen Brotlaib bedeckt, wie viele Tage würde es dann dauern, bis der Fleck die Hälfte des Brotes bedeckt?
+
+Bitte nur die Ziffer(n) angeben. - Anzahl Tage:",41,1,0,0,0
+crt_3_4_num,"Auf einem Laib Brot ist ein Schimmelfleck. Jeden Tag verdoppelt sich die Größe des Flecks. Wenn es 40 Tage dauert, bis der Fleck den ganzen Brotlaib bedeckt, wie viele Tage würde es dann dauern, bis der Fleck die Hälfte des Brotes bedeckt?
+
+Bitte nur die Ziffer(n) angeben. - Anzahl Tage:",5,1,0,0,0
+crt_4_4_num,"Wenn man ein Rennen läuft und die Person auf dem zweiten Platz überholt, auf welchem Platz ist man dann? 
+
+Bitte nur die Ziffer angeben. - Auf Platz",1,15,0,17,0
+crt_4_4_num,"Wenn man ein Rennen läuft und die Person auf dem zweiten Platz überholt, auf welchem Platz ist man dann? 
+
+Bitte nur die Ziffer angeben. - Auf Platz",2,0,16,22,0
+crt_4_4_num,"Wenn man ein Rennen läuft und die Person auf dem zweiten Platz überholt, auf welchem Platz ist man dann? 
+
+Bitte nur die Ziffer angeben. - Auf Platz",3,2,0,1,0
+crt_5_4_num,"Ein Bauer hatte 15 Schafe und alle bis auf 8 sind gestorben. Wie viele sind übrig geblieben?
+
+Bitte nur die Ziffer(n) angeben. - Übrige Schafe:",0,2,0,0,0
+crt_5_4_num,"Ein Bauer hatte 15 Schafe und alle bis auf 8 sind gestorben. Wie viele sind übrig geblieben?
+
+Bitte nur die Ziffer(n) angeben. - Übrige Schafe:",7,12,0,8,0
+crt_5_4_num,"Ein Bauer hatte 15 Schafe und alle bis auf 8 sind gestorben. Wie viele sind übrig geblieben?
+
+Bitte nur die Ziffer(n) angeben. - Übrige Schafe:",8,0,22,29,0
+crt_6_4_num,"Emilys Vater hat drei Töchter. Die ersten beiden heißen April und Mai. Wie heißt die dritte Tochter?
+
+Bitte nur einen Namen angeben. - Name:",Emily,0,15,22,0
+crt_6_4_num,"Emilys Vater hat drei Töchter. Die ersten beiden heißen April und Mai. Wie heißt die dritte Tochter?
+
+Bitte nur einen Namen angeben. - Name:",Emilys,0,0,1,0
+crt_6_4_num,"Emilys Vater hat drei Töchter. Die ersten beiden heißen April und Mai. Wie heißt die dritte Tochter?
+
+Bitte nur einen Namen angeben. - Name:",Juni,16,0,11,0
+crt_6_4_num,"Emilys Vater hat drei Töchter. Die ersten beiden heißen April und Mai. Wie heißt die dritte Tochter?
+
+Bitte nur einen Namen angeben. - Name:",emily,0,0,2,0
+crt_6_4_num,"Emilys Vater hat drei Töchter. Die ersten beiden heißen April und Mai. Wie heißt die dritte Tochter?
+
+Bitte nur einen Namen angeben. - Name:",juni,3,0,3,0
+crt_7_num,"Wie viele Kubikmeter Erde sind in einem Loch, welches 3 Meter tief, 3 Meter breit und 3 Meter lang ist?
+
+Bitte nur die Ziffer(n) angeben.",0,0,4,0,6
+crt_7_num,"Wie viele Kubikmeter Erde sind in einem Loch, welches 3 Meter tief, 3 Meter breit und 3 Meter lang ist?
+
+Bitte nur die Ziffer(n) angeben.",15,0,0,0,1
+crt_7_num,"Wie viele Kubikmeter Erde sind in einem Loch, welches 3 Meter tief, 3 Meter breit und 3 Meter lang ist?
+
+Bitte nur die Ziffer(n) angeben.",21,1,0,0,0
+crt_7_num,"Wie viele Kubikmeter Erde sind in einem Loch, welches 3 Meter tief, 3 Meter breit und 3 Meter lang ist?
+
+Bitte nur die Ziffer(n) angeben.",27,14,0,0,15
+crt_7_num,"Wie viele Kubikmeter Erde sind in einem Loch, welches 3 Meter tief, 3 Meter breit und 3 Meter lang ist?
+
+Bitte nur die Ziffer(n) angeben.",3,6,0,0,3
+crt_7_num,"Wie viele Kubikmeter Erde sind in einem Loch, welches 3 Meter tief, 3 Meter breit und 3 Meter lang ist?
+
+Bitte nur die Ziffer(n) angeben.",5,1,0,0,0
+crt_7_num,"Wie viele Kubikmeter Erde sind in einem Loch, welches 3 Meter tief, 3 Meter breit und 3 Meter lang ist?
+
+Bitte nur die Ziffer(n) angeben.",8,0,0,0,1
+crt_7_num,"Wie viele Kubikmeter Erde sind in einem Loch, welches 3 Meter tief, 3 Meter breit und 3 Meter lang ist?
+
+Bitte nur die Ziffer(n) angeben.",9,13,0,0,8
+crt_8_4_num,"Sie haben nur ein Streichholz und gehen in einen dunklen Raum, in dem sich eine Öllampe, eine Zeitung und Feuerholz befinden. Was zünden Sie zuerst an? - Ich zünde zuerst an:",Das Streichholz,0,1,0,0
+crt_8_4_num,"Sie haben nur ein Streichholz und gehen in einen dunklen Raum, in dem sich eine Öllampe, eine Zeitung und Feuerholz befinden. Was zünden Sie zuerst an? - Ich zünde zuerst an:",Feuerholz,2,0,2,0
+crt_8_4_num,"Sie haben nur ein Streichholz und gehen in einen dunklen Raum, in dem sich eine Öllampe, eine Zeitung und Feuerholz befinden. Was zünden Sie zuerst an? - Ich zünde zuerst an:",Licht,1,0,0,0
+crt_8_4_num,"Sie haben nur ein Streichholz und gehen in einen dunklen Raum, in dem sich eine Öllampe, eine Zeitung und Feuerholz befinden. Was zünden Sie zuerst an? - Ich zünde zuerst an:",Sreichholz,0,1,0,0
+crt_8_4_num,"Sie haben nur ein Streichholz und gehen in einen dunklen Raum, in dem sich eine Öllampe, eine Zeitung und Feuerholz befinden. Was zünden Sie zuerst an? - Ich zünde zuerst an:",Streichholz,0,20,10,0
+crt_8_4_num,"Sie haben nur ein Streichholz und gehen in einen dunklen Raum, in dem sich eine Öllampe, eine Zeitung und Feuerholz befinden. Was zünden Sie zuerst an? - Ich zünde zuerst an:",Zeitung,4,0,1,0
+crt_8_4_num,"Sie haben nur ein Streichholz und gehen in einen dunklen Raum, in dem sich eine Öllampe, eine Zeitung und Feuerholz befinden. Was zünden Sie zuerst an? - Ich zünde zuerst an:",das Streichholz,0,1,0,0
+crt_8_4_num,"Sie haben nur ein Streichholz und gehen in einen dunklen Raum, in dem sich eine Öllampe, eine Zeitung und Feuerholz befinden. Was zünden Sie zuerst an? - Ich zünde zuerst an:",feuerholz,1,0,0,0
+crt_8_4_num,"Sie haben nur ein Streichholz und gehen in einen dunklen Raum, in dem sich eine Öllampe, eine Zeitung und Feuerholz befinden. Was zünden Sie zuerst an? - Ich zünde zuerst an:",streichholz,0,0,1,0
+crt_8_4_num,"Sie haben nur ein Streichholz und gehen in einen dunklen Raum, in dem sich eine Öllampe, eine Zeitung und Feuerholz befinden. Was zünden Sie zuerst an? - Ich zünde zuerst an:",szreochholz,0,1,0,0
+crt_8_4_num,"Sie haben nur ein Streichholz und gehen in einen dunklen Raum, in dem sich eine Öllampe, eine Zeitung und Feuerholz befinden. Was zünden Sie zuerst an? - Ich zünde zuerst an:",zeitung,0,0,2,0
+crt_8_4_num,"Sie haben nur ein Streichholz und gehen in einen dunklen Raum, in dem sich eine Öllampe, eine Zeitung und Feuerholz befinden. Was zünden Sie zuerst an? - Ich zünde zuerst an:",Öl,0,0,1,0
+crt_8_4_num,"Sie haben nur ein Streichholz und gehen in einen dunklen Raum, in dem sich eine Öllampe, eine Zeitung und Feuerholz befinden. Was zünden Sie zuerst an? - Ich zünde zuerst an:",Öllampe,12,0,9,0
+crt_8_4_num,"Sie haben nur ein Streichholz und gehen in einen dunklen Raum, in dem sich eine Öllampe, eine Zeitung und Feuerholz befinden. Was zünden Sie zuerst an? - Ich zünde zuerst an:",Öllanpe,0,0,1,0
+crt_8_4_num,"Sie haben nur ein Streichholz und gehen in einen dunklen Raum, in dem sich eine Öllampe, eine Zeitung und Feuerholz befinden. Was zünden Sie zuerst an? - Ich zünde zuerst an:",Ölllampe,0,0,1,0
+crt_8_4_num,"Sie haben nur ein Streichholz und gehen in einen dunklen Raum, in dem sich eine Öllampe, eine Zeitung und Feuerholz befinden. Was zünden Sie zuerst an? - Ich zünde zuerst an:",öllampe,0,0,1,0

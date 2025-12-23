@@ -1,0 +1,21 @@
+hb_13_label,hb_14_label,correct,incorrect
+Eher falsch,Eher falsch,10,0
+Eher falsch,Eher richtig,0,2
+Eher falsch,Völlig richtig,0,1
+Eher falsch,Weder richtig noch falsch,0,3
+Eher richtig,Eher falsch,0,10
+Eher richtig,Eher richtig,94,0
+Eher richtig,Völlig falsch,0,1
+Eher richtig,Völlig richtig,0,7
+Eher richtig,Weder richtig noch falsch,0,18
+Völlig falsch,Völlig falsch,4,0
+Völlig richtig,Eher falsch,0,4
+Völlig richtig,Eher richtig,0,28
+Völlig richtig,Völlig falsch,0,2
+Völlig richtig,Völlig richtig,87,0
+Völlig richtig,Weder richtig noch falsch,0,16
+Weder richtig noch falsch,Eher falsch,0,7
+Weder richtig noch falsch,Eher richtig,0,7
+Weder richtig noch falsch,Völlig falsch,0,1
+Weder richtig noch falsch,Völlig richtig,0,1
+Weder richtig noch falsch,Weder richtig noch falsch,74,0

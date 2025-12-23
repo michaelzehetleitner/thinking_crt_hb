@@ -1,0 +1,612 @@
+[
+  {
+    "scale": "CRT",
+    "item": "CRT_1_1",
+    "varname": "CRT_1_1",
+    "text": "Mark und Adam sind insgesamt 28 Jahre alt. Mark ist 20 Jahre älter als Adam. Wie alt ist Adam in Jahren?\n\nBitte nur die Ziffer(n) angeben. - Alter:",
+    "responses": []
+  },
+  {
+    "scale": "CRT",
+    "item": "CRT_2_1",
+    "varname": "CRT_2_1",
+    "text": "Wenn 10 Drucker 10 Sekunden brauchen, um 10 Seiten Papier auszudrucken, wie viele Sekunden brauchen dann 50 Drucker, um 50 Seiten Papier auszudrucken? \n\nBitte nur die Ziffer(n) angeben. - Sekunden:",
+    "responses": []
+  },
+  {
+    "scale": "CRT",
+    "item": "CRT_3_4",
+    "varname": "CRT_3_4",
+    "text": "Auf einem Laib Brot ist ein Schimmelfleck. Jeden Tag verdoppelt sich die Größe des Flecks. Wenn es 40 Tage dauert, bis der Fleck den ganzen Brotlaib bedeckt, wie viele Tage würde es dann dauern, bis der Fleck die Hälfte des Brotes bedeckt?\n\nBitte nur die Ziffer(n) angeben. - Anzahl Tage:",
+    "responses": []
+  },
+  {
+    "scale": "CRT",
+    "item": "CRT_4_4",
+    "varname": "CRT_4_4",
+    "text": "Wenn man ein Rennen läuft und die Person auf dem zweiten Platz überholt, auf welchem Platz ist man dann? \n\nBitte nur die Ziffer angeben. - Auf Platz",
+    "responses": []
+  },
+  {
+    "scale": "CRT",
+    "item": "CRT_5_4",
+    "varname": "CRT_5_4",
+    "text": "Ein Bauer hatte 15 Schafe und alle bis auf 8 sind gestorben. Wie viele sind übrig geblieben?\n\nBitte nur die Ziffer(n) angeben. - Übrige Schafe:",
+    "responses": []
+  },
+  {
+    "scale": "CRT",
+    "item": "CRT_6_4",
+    "varname": "CRT_6_4",
+    "text": "Emilys Vater hat drei Töchter. Die ersten beiden heißen April und Mai. Wie heißt die dritte Tochter?\n\nBitte nur einen Namen angeben. - Name:",
+    "responses": []
+  },
+  {
+    "scale": "CRT",
+    "item": "CRT_7",
+    "varname": "CRT_7",
+    "text": "Wie viele Kubikmeter Erde sind in einem Loch, welches 3 Meter tief, 3 Meter breit und 3 Meter lang ist?\n\nBitte nur die Ziffer(n) angeben.",
+    "responses": []
+  },
+  {
+    "scale": "CRT",
+    "item": "CRT_8_4",
+    "varname": "CRT_8_4",
+    "text": "Sie haben nur ein Streichholz und gehen in einen dunklen Raum, in dem sich eine Öllampe, eine Zeitung und Feuerholz befinden. Was zünden Sie zuerst an? - Ich zünde zuerst an:",
+    "responses": []
+  },
+  {
+    "scale": "CRT",
+    "item": "CRT_gesehen_1",
+    "varname": "CRT_gesehen_1",
+    "text": "Geben Sie für jede Aufgabe an, ob Sie diese schon einmal gesehen haben - Mark und Adam Alter",
+    "responses": [
+      {
+        "value": 1,
+        "label": "ja"
+      },
+      {
+        "value": 2,
+        "label": "nein"
+      }
+    ]
+  },
+  {
+    "scale": "CRT",
+    "item": "CRT_gesehen_2",
+    "varname": "CRT_gesehen_2",
+    "text": "Geben Sie für jede Aufgabe an, ob Sie diese schon einmal gesehen haben - Drucker",
+    "responses": [
+      {
+        "value": 1,
+        "label": "ja"
+      },
+      {
+        "value": 2,
+        "label": "nein"
+      }
+    ]
+  },
+  {
+    "scale": "CRT",
+    "item": "CRT_gesehen_3",
+    "varname": "CRT_gesehen_3",
+    "text": "Geben Sie für jede Aufgabe an, ob Sie diese schon einmal gesehen haben - Schimmel auf Brot",
+    "responses": [
+      {
+        "value": 1,
+        "label": "ja"
+      },
+      {
+        "value": 2,
+        "label": "nein"
+      }
+    ]
+  },
+  {
+    "scale": "CRT",
+    "item": "CRT_gesehen_4",
+    "varname": "CRT_gesehen_4",
+    "text": "Geben Sie für jede Aufgabe an, ob Sie diese schon einmal gesehen haben - Im Rennen überholen",
+    "responses": [
+      {
+        "value": 1,
+        "label": "ja"
+      },
+      {
+        "value": 2,
+        "label": "nein"
+      }
+    ]
+  },
+  {
+    "scale": "CRT",
+    "item": "CRT_gesehen_5",
+    "varname": "CRT_gesehen_5",
+    "text": "Geben Sie für jede Aufgabe an, ob Sie diese schon einmal gesehen haben - Gestorbene Schafe",
+    "responses": [
+      {
+        "value": 1,
+        "label": "ja"
+      },
+      {
+        "value": 2,
+        "label": "nein"
+      }
+    ]
+  },
+  {
+    "scale": "CRT",
+    "item": "CRT_gesehen_6",
+    "varname": "CRT_gesehen_6",
+    "text": "Geben Sie für jede Aufgabe an, ob Sie diese schon einmal gesehen haben - Namen der Töchter",
+    "responses": [
+      {
+        "value": 1,
+        "label": "ja"
+      },
+      {
+        "value": 2,
+        "label": "nein"
+      }
+    ]
+  },
+  {
+    "scale": "CRT",
+    "item": "CRT_gesehen_7",
+    "varname": "CRT_gesehen_7",
+    "text": "Geben Sie für jede Aufgabe an, ob Sie diese schon einmal gesehen haben - Loch und Erde",
+    "responses": [
+      {
+        "value": 1,
+        "label": "ja"
+      },
+      {
+        "value": 2,
+        "label": "nein"
+      }
+    ]
+  },
+  {
+    "scale": "CRT",
+    "item": "CRT_gesehen_8",
+    "varname": "CRT_gesehen_8",
+    "text": "Geben Sie für jede Aufgabe an, ob Sie diese schon einmal gesehen haben - Dunkler Raum",
+    "responses": [
+      {
+        "value": 1,
+        "label": "ja"
+      },
+      {
+        "value": 2,
+        "label": "nein"
+      }
+    ]
+  },
+  {
+    "scale": "CRT",
+    "item": "CRT_hilfsmittel_1",
+    "varname": "CRT_hilfsmittel_1",
+    "text": "Bitte beantworten Sie diese Frage wahrheitsgemäß.\n\nIhre Antwort ist anonym, wie alle anderen Antworten.\n\nAuch bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben.\n\n\n\nHaben Sie Hilfsmittel benutzt, um die Fragen zu beantworten? - Selected Choice Ich habe keine Hilfsmittel verwendet",
+    "responses": [
+      {
+        "value": 1,
+        "label": "Ich habe keine Hilfsmittel verwendet"
+      }
+    ]
+  },
+  {
+    "scale": "CRT",
+    "item": "CRT_hilfsmittel_2",
+    "varname": "CRT_hilfsmittel_2",
+    "text": "Bitte beantworten Sie diese Frage wahrheitsgemäß.\n\nIhre Antwort ist anonym, wie alle anderen Antworten.\n\nAuch bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben.\n\n\n\nHaben Sie Hilfsmittel benutzt, um die Fragen zu beantworten? - Selected Choice Suchmaschine (z.B. Google)",
+    "responses": [
+      {
+        "value": 1,
+        "label": "Suchmaschine (z.B. Google)"
+      }
+    ]
+  },
+  {
+    "scale": "CRT",
+    "item": "CRT_hilfsmittel_3",
+    "varname": "CRT_hilfsmittel_3",
+    "text": "Bitte beantworten Sie diese Frage wahrheitsgemäß.\n\nIhre Antwort ist anonym, wie alle anderen Antworten.\n\nAuch bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben.\n\n\n\nHaben Sie Hilfsmittel benutzt, um die Fragen zu beantworten? - Selected Choice Sprachmodell (z.B. chatGPT)",
+    "responses": [
+      {
+        "value": 1,
+        "label": "Sprachmodell (z.B. chatGPT)"
+      }
+    ]
+  },
+  {
+    "scale": "CRT",
+    "item": "CRT_hilfsmittel_4",
+    "varname": "CRT_hilfsmittel_4",
+    "text": "Bitte beantworten Sie diese Frage wahrheitsgemäß.\n\nIhre Antwort ist anonym, wie alle anderen Antworten.\n\nAuch bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben.\n\n\n\nHaben Sie Hilfsmittel benutzt, um die Fragen zu beantworten? - Selected Choice andere und zwar:",
+    "responses": [
+      {
+        "value": 1,
+        "label": "andere und zwar:"
+      }
+    ]
+  },
+  {
+    "scale": "CRT",
+    "item": "CRT_hilfsmittel_4_TEXT",
+    "varname": "CRT_hilfsmittel_4_TEXT",
+    "text": "Bitte beantworten Sie diese Frage wahrheitsgemäß.\n\nIhre Antwort ist anonym, wie alle anderen Antworten.\n\nAuch bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben.\n\n\n\nHaben Sie Hilfsmittel benutzt, um die Fragen zu beantworten? - andere und zwar: – Text",
+    "responses": []
+  },
+  {
+    "scale": "HB",
+    "item": "HB_1",
+    "varname": "HB_1",
+    "text": "Eine Stadt wird von zwei Krankenhäusern versorgt. Im größeren Krankenhaus werden täglich etwa 45 Babys geboren und im kleineren Krankenhaus etwa 15 Babys pro Tag. Durchschnittlich sind 50 Prozent aller Babys Jungen. Der genaue Prozentsatz schwankt jedoch von Tag zu Tag. Manchmal ist er höher als 50 Prozent, manchmal niedriger. Über einen Zeitraum von einem Jahr hat jedes Krankenhaus die Tage aufgezeichnet, an denen mehr als 60 Prozent der Neugeborenen Jungen waren. Welches Krankenhaus verzeichnete Ihrer Meinung nach mehr solcher Tage?",
+    "responses": [
+      {
+        "value": 0,
+        "label": "Das größere Krankenhaus"
+      },
+      {
+        "value": 1,
+        "label": "Das kleinere Krankenhaus"
+      },
+      {
+        "value": 2,
+        "label": "Beide ungefähr gleich (d. h. sie weichen nicht mehr als 5 Prozent voneinander ab)"
+      }
+    ]
+  },
+  {
+    "scale": "HB",
+    "item": "HB_2",
+    "varname": "HB_2",
+    "text": "Stellen Sie sich vor, wir werfen eine faire Münze (eine Münze, bei der die Wahrscheinlichkeit, dass sie Kopf oder Zahl zeigt, 50:50 beträgt). Diese Münze ist gerade 5 Mal hintereinander auf Kopf gefallen. \n\nWas glauben Sie: \n\nBeim 6. Wurf…",
+    "responses": [
+      {
+        "value": 0,
+        "label": "...ist es wahrscheinlicher, dass Zahl herauskommt als Kopf."
+      },
+      {
+        "value": 1,
+        "label": "...ist es wahrscheinlicher, dass Kopf herauskommt als Zahl."
+      },
+      {
+        "value": 2,
+        "label": "...sind Kopf und Zahl gleich wahrscheinlich."
+      }
+    ]
+  },
+  {
+    "scale": "HB",
+    "item": "HB_3",
+    "varname": "HB_3",
+    "text": "Linda ist 31 Jahre alt, ledig, aufgeschlossen und sehr intelligent. Sie hat Philosophie studiert. Als Studentin beschäftigte sie sich intensiv mit Fragen der Diskriminierung und sozialen Gerechtigkeit und nahm auch an Fridays for Future Demonstrationen teil. Welche Aussage ist wahrscheinlicher?",
+    "responses": [
+      {
+        "value": 0,
+        "label": "Linda ist Bankangestellte."
+      },
+      {
+        "value": 1,
+        "label": "Linda ist Bankangestellte und engagiert sich in der Frauenbewegung."
+      }
+    ]
+  },
+  {
+    "scale": "HB",
+    "item": "HB_4",
+    "varname": "HB_4",
+    "text": "Zwei Tischtennisspieler (Spieler A und Spieler B) überlegen, ob sie ein Spiel bis 9 oder bis 15 Punkte spielen sollen. Spieler A ist der bessere Spieler. Bei welcher der beiden Spielformen hat Spieler A eine größere Chance zu gewinnen?",
+    "responses": [
+      {
+        "value": 0,
+        "label": "9"
+      },
+      {
+        "value": 1,
+        "label": "15"
+      },
+      {
+        "value": 2,
+        "label": "Bei beiden Spielformen sind die Gewinnchancen für A gleich"
+      }
+    ]
+  },
+  {
+    "scale": "HB",
+    "item": "HB_5",
+    "varname": "HB_5",
+    "text": "Ein Würfel hat 4 rote und 2 grüne Seiten und wird 60 Mal geworfen. Sie werden vor jedem Wurf gefragt, welche Farbe geworfen wird. Für jede richtige Vorhersage bekommen Sie 5 Euro. Welche der folgenden Strategien würden Sie wählen?",
+    "responses": [
+      {
+        "value": 1,
+        "label": "Ich würde mich auf mein Bauchgefühl verlassen. Wenn eine Farbe zu häufig erscheint, ändere ich meine Vorhersage."
+      },
+      {
+        "value": 2,
+        "label": "Ich wähle die meiste Zeit die wahrscheinlichere rote Farbe. Nach einer langen Serie von Rot sage ich aber auch manchmal Grün vorher."
+      },
+      {
+        "value": 3,
+        "label": "Ich mache die Vorhersage entsprechend der Häufigkeit des Auftretens (4 von 6 für Rot; 2 von 6 für Grün). Das bedeutet, ich sage doppelt so häufig  rote Würfe wie grüne vorher."
+      },
+      {
+        "value": 4,
+        "label": "Bei allen 60 Würfen sage ich die Farbe Rot vorher."
+      }
+    ]
+  },
+  {
+    "scale": "HB",
+    "item": "HB_6",
+    "varname": "HB_6",
+    "text": "Sie übernachten in einem Hotel. \n\nSie haben 6,95 Euro bezahlt, um einen Film im Pay-TV zu sehen. \n\nNach 5 Minuten merken Sie, dass der Film langweilig ist. Würden Sie den Film weiter anschauen oder nicht?",
+    "responses": [
+      {
+        "value": 0,
+        "label": "Ich schaue den Film weiter"
+      },
+      {
+        "value": 1,
+        "label": "Ich mache den Film aus"
+      }
+    ]
+  },
+  {
+    "scale": "HB",
+    "item": "HB_7",
+    "varname": "HB_7",
+    "text": "Sie übernachten in einem Hotel. \n\nSie schalten den Fernseher ein und es läuft ein Film. \n\nNach 5 Minuten merken Sie, dass der Film langweilig ist. Würden Sie den Film weiter anschauen oder nicht?",
+    "responses": [
+      {
+        "value": 0,
+        "label": "Ich schaue den Film weiter"
+      },
+      {
+        "value": 1,
+        "label": "Ich mache den Film aus"
+      }
+    ]
+  },
+  {
+    "scale": "HB",
+    "item": "HB_8",
+    "varname": "HB_8",
+    "text": "Die Müllers wollen beim nächsten Autokauf ein sicheres und langlebiges schwedisches Auto: entweder einen Volvo oder einen Saab. Ihr altes Auto geht genau am letzten Tag eines Sonderrabattes kaputt, der für Volvo und Saab gilt. Ab morgen fällt der Rabatt weg, also müssen sie sich heute entscheiden. Beide Autos kosten in etwa gleich viel.\n\n\nIn Verbraucherberichten lesen sie: Beide Marken gelten als sehr zuverlässig, aber Volvo wird als etwas besser eingestuft und Volvo-Besitzer berichten insgesamt von weniger Problemen als Saab-Besitzer. \n\nBevor sie zum Volvo-Händler fahren, rufen sie drei Freunde an: Die zwei Saab-Besitzer berichten von kleineren, aber nicht schlimmen Problemen. Der Volvo-Besitzer dagegen antwortet wütend: \"Erst ging ein teures Computerteil der Einspritzung kaputt, dann gab es Probleme mit dem Heck, danach mit Getriebe und Kupplung.\" Nach drei Jahren hat er den Volvo schließlich als Schrott verkauft.\n\n\nAngesichts dessen, dass die Müllers heute entweder einen Volvo oder einen Saab ka",
+    "responses": [
+      {
+        "value": 1,
+        "label": "Sie sollten auf jeden Fall einen Saab kaufen."
+      },
+      {
+        "value": 2,
+        "label": "Sie sollten eher einen Saab kaufen."
+      },
+      {
+        "value": 3,
+        "label": "Sie sollten eher einen Volvo kaufen."
+      },
+      {
+        "value": 4,
+        "label": "Sie sollten auf jeden Fall einen Volvo kaufen."
+      }
+    ]
+  },
+  {
+    "scale": "HB",
+    "item": "HB_9",
+    "varname": "HB_9",
+    "text": "An einer kleinen Universität studieren 4 von 5 Studierenden Psychologie und 1 von 5 Philosophie.\n\nSie lesen folgenden Text über Anna:\n\"Anna liest gern anspruchsvolle Literatur und diskutiert viel über Ethik und Sinnfragen.\"\n\nWas ist wahrscheinlicher?",
+    "responses": [
+      {
+        "value": 1,
+        "label": "Anna studiert Psychologie"
+      },
+      {
+        "value": 2,
+        "label": "Anna studiert Philosophie"
+      }
+    ]
+  },
+  {
+    "scale": "HB",
+    "item": "HB_10",
+    "varname": "HB_10",
+    "text": "Auf einer Party sind 4 männliche Professoren und 8 männliche Führungskräfte.\n\nVon den 4 Professoren sind 3 Mitglied im „Bear’s Club“.\n\nVon den 8 Führungskräften sind 4 Mitglied im „Bear’s Club“.\n\nSie wissen: David ist Mitglied im „Bear’s Club“.\n\nWas ist wahrscheinlicher?",
+    "responses": [
+      {
+        "value": 1,
+        "label": "David ist Professor"
+      },
+      {
+        "value": 2,
+        "label": "David ist Führungskraft"
+      },
+      {
+        "value": 3,
+        "label": "Beides ist gleich wahrscheinlich"
+      }
+    ]
+  },
+  {
+    "scale": "HB",
+    "item": "HB_11",
+    "varname": "HB_11",
+    "text": "Vor Ihnen befinden sich zwei Tabletts mit schwarzen und weißen Murmeln: ein großes Tablett mit 100 Murmeln und ein kleines Tablett mit 10 Murmeln. Die Murmeln sind in einer einzigen Schicht auf dem Tablett verteilt.\n\nSie müssen, natürlich ohne hinzusehen, von einem der Tabletts ziehen. Wenn Sie eine schwarze Murmel ziehen, gewinnen Sie 5 Euro. \n\nDas kleine Tablett enthält 1 schwarze und 9 weiße Murmeln.\nDas große Tablett enthält 8 schwarze und 92 weiße Murmeln. \n\nVon welchem Tablett würden Sie lieber eine Murmel ziehen?",
+    "responses": [
+      {
+        "value": 1,
+        "label": "Aus dem kleinen Tablett (10 Kugeln)"
+      },
+      {
+        "value": 2,
+        "label": "Aus dem großen Tablett (100 Kugeln)"
+      }
+    ]
+  },
+  {
+    "scale": "HB",
+    "item": "HB_12",
+    "varname": "HB_12",
+    "text": "Beim Spielen an Spielautomaten gewinnt man etwa 1 Mal von 10 Versuchen etwas. Julie hat jedoch gerade bei ihren ersten drei Versuchen gewonnen.\n\nWie hoch ist Julies Chance beim nächsten Spiel zu gewinnen? Geben Sie ihre Chance auf einer Skala von 1 bis 10 an.",
+    "responses": [
+      {
+        "value": 1,
+        "label": "0"
+      },
+      {
+        "value": 2,
+        "label": "1"
+      },
+      {
+        "value": 3,
+        "label": "2"
+      },
+      {
+        "value": 4,
+        "label": "3"
+      },
+      {
+        "value": 5,
+        "label": "4"
+      },
+      {
+        "value": 6,
+        "label": "5"
+      },
+      {
+        "value": 7,
+        "label": "6"
+      },
+      {
+        "value": 8,
+        "label": "7"
+      },
+      {
+        "value": 9,
+        "label": "8"
+      },
+      {
+        "value": 10,
+        "label": "9"
+      },
+      {
+        "value": 11,
+        "label": "10"
+      }
+    ]
+  },
+  {
+    "scale": "HB",
+    "item": "HB_14",
+    "varname": "HB_14",
+    "text": "Ein  55-jähriger Mann hatte ein Herzleiden. Wegen Brustschmerzen musste er aufhören zu arbeiten. Er mochte seine Arbeit und wollte nicht aufhören. Seine Schmerzen beeinträchtigten auch andere Dinge, wie Reisen und Freizeitaktivitäten. Eine Bypass-Operation würde seine Schmerzen lindern und seine Lebenserwartung von 65 auf 70 Jahre erhöhen. Allerdings sterben 8 % der Menschen, die sich dieser Operation unterziehen, an den Folgen der Operation.\n\n\n\nFall 1:\n\nSein Arzt entschied sich, die Operation durchzuführen.\n\nDie Operation ist fehlgeschlagen und der Mann ist gestorben.\n\n\n\nBewerten Sie die Entscheidung des Arztes, die Operation durchzuführen.",
+    "responses": [
+      {
+        "value": 1,
+        "label": "Völlig richtig"
+      },
+      {
+        "value": 2,
+        "label": "Eher richtig"
+      },
+      {
+        "value": 3,
+        "label": "Weder richtig noch falsch"
+      },
+      {
+        "value": 4,
+        "label": "Eher falsch"
+      },
+      {
+        "value": 5,
+        "label": "Völlig falsch"
+      }
+    ]
+  },
+  {
+    "scale": "HB",
+    "item": "HB_13",
+    "varname": "HB_13",
+    "text": "Nun ein sehr ählicher Fall:\n\n\n\nEin 55-jähriger Mann hatte ein Herzleiden. Wegen Brustschmerzen musste er aufhören zu arbeiten. Er mochte seine Arbeit und wollte nicht aufhören. Seine Schmerzen beeinträchtigten auch andere Dinge, wie Reisen und Freizeitaktivitäten. Eine Bypass-Operation würde seine Schmerzen lindern und seine Lebenserwartung von 65 auf 70 Jahre erhöhen. Allerdings sterben 8 % der Menschen, die sich dieser Operation unterziehen, an den Folgen der Operation.\n\n\n\nFall 2:\n\nSein Arzt entschied sich, die Operation durchzuführen.\n\nDie Operation war erfolgreich.\n\n\n\nBewerten Sie die Entscheidung des Arztes, die Operation durchzuführen.",
+    "responses": [
+      {
+        "value": 1,
+        "label": "Völlig richtig"
+      },
+      {
+        "value": 2,
+        "label": "Eher richtig"
+      },
+      {
+        "value": 3,
+        "label": "Weder richtig noch falsch"
+      },
+      {
+        "value": 4,
+        "label": "Eher falsch"
+      },
+      {
+        "value": 5,
+        "label": "Völlig falsch"
+      }
+    ]
+  },
+  {
+    "scale": "HB",
+    "item": "HB_hilfsmittel_1",
+    "varname": "HB_hilfsmittel_1",
+    "text": "Bitte beantworten Sie diese Frage wahrheitsgemäß.\n\nIhre Antwort ist anonym, wie alle anderen Antworten.\n\nAuch bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben sollten.\n\n\n\nHaben Sie Hilfsmittel benutzt, um die Fragen zu beantworten? - Selected Choice Ich habe keine Hilfsmittel verwendet",
+    "responses": [
+      {
+        "value": 1,
+        "label": "Ich habe keine Hilfsmittel verwendet"
+      }
+    ]
+  },
+  {
+    "scale": "HB",
+    "item": "HB_hilfsmittel_2",
+    "varname": "HB_hilfsmittel_2",
+    "text": "Bitte beantworten Sie diese Frage wahrheitsgemäß.\n\nIhre Antwort ist anonym, wie alle anderen Antworten.\n\nAuch bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben sollten.\n\n\n\nHaben Sie Hilfsmittel benutzt, um die Fragen zu beantworten? - Selected Choice Suchmaschine (z.B. Google)",
+    "responses": [
+      {
+        "value": 1,
+        "label": "Suchmaschine (z.B. Google)"
+      }
+    ]
+  },
+  {
+    "scale": "HB",
+    "item": "HB_hilfsmittel_3",
+    "varname": "HB_hilfsmittel_3",
+    "text": "Bitte beantworten Sie diese Frage wahrheitsgemäß.\n\nIhre Antwort ist anonym, wie alle anderen Antworten.\n\nAuch bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben sollten.\n\n\n\nHaben Sie Hilfsmittel benutzt, um die Fragen zu beantworten? - Selected Choice Sprachmodell (z.B. chatGPT)",
+    "responses": [
+      {
+        "value": 1,
+        "label": "Sprachmodell (z.B. chatGPT)"
+      }
+    ]
+  },
+  {
+    "scale": "HB",
+    "item": "HB_hilfsmittel_4",
+    "varname": "HB_hilfsmittel_4",
+    "text": "Bitte beantworten Sie diese Frage wahrheitsgemäß.\n\nIhre Antwort ist anonym, wie alle anderen Antworten.\n\nAuch bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben sollten.\n\n\n\nHaben Sie Hilfsmittel benutzt, um die Fragen zu beantworten? - Selected Choice andere und zwar:",
+    "responses": [
+      {
+        "value": 1,
+        "label": "andere und zwar:"
+      }
+    ]
+  },
+  {
+    "scale": "HB",
+    "item": "HB_hilfsmittel_4_TEXT",
+    "varname": "HB_hilfsmittel_4_TEXT",
+    "text": "Bitte beantworten Sie diese Frage wahrheitsgemäß.\n\nIhre Antwort ist anonym, wie alle anderen Antworten.\n\nAuch bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben sollten.\n\n\n\nHaben Sie Hilfsmittel benutzt, um die Fragen zu beantworten? - andere und zwar: – Text",
+    "responses": []
+  }
+]

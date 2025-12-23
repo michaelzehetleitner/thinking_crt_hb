@@ -1,0 +1,844 @@
+Pre-registeration– Follow-Up to Translation and Validation of the 4-CTSQ-D
+
+Follow-up to
+Translation and Validation of the
+4-CTSQ-D
+
+Corresponding Author
+Prof. Dr. Michael Zehetleitner
+Catholic University Eichstätt-Ingolstadt
+Allgemeine Psychologie II / Cognitive Psychology II
+Ostenstraße 25
+85072 Eichstätt, Germany
+E-Mail: michael.zehetleitner@ku.de
+
+1
+Department for General Psychology II – Catholic University of Eichstätt- Ingolstadt
+Professor M. Zehetleitner
+
+Pre-registeration– Follow-Up to Translation and Validation of the 4-CTSQ-D
+
+T1 Title
+Follow-Up to the Translation and Validation of the 4-CTSQ-D
+
+T2 Contributors
+Prof. Dr. Michael Zehetleitner (https://orcid.org/0000-0003-3363-2680)
+Johannes Käufl, Roxane Köhler, Elias Kohlschütter, Theresa Oster, Kristin Waldmanstetter
+
+T3 Date of Preregistration
+December, 11 2025; before start of data collection.
+
+T4 Versioning information
+This is a follow-up to the preregistration
+Zehetleitner, M., Käufl, J., Köhler, R., Kohlschütter, E., Oster, T., & Waldmannstetter, K. (2025).
+Translation of the 4-CTSQ and validation of the 4-CTSQ-D. PsychArchives.
+https://doi.org/10.23668/psycharchives.16504
+
+T5 Identifier
+N.A.
+
+T6 Estimated duration of project
+December 2025 – January 2026
+
+T7 IRB Status
+The Ethics Committee of the Catholic University of Eichstätt-Ingolstadt has approved the present
+project (ID: 056-2021).
+
+T8 Conflict of Interest Statement
+There are no conflicts of interest.
+
+T9 Keywords
+Thinking styles, dual-process theories, analytic thinking, intuitive thinking, 4-CTSQ, german translation, cognitive reflection, dual-process theories,
+
+T10 Data accessibility statement and planned repository
+The data will be available for download (https://psycharchives.org) and can be used for all purposes (public use).
+
+T11 Code availability
+The code and material will be available for download (https://psycharchives.org) and can be used
+for all purposes (public use).
+
+T12 Optional: Standard lab practices
+N.A.
+
+2
+Department for General Psychology II – Catholic University of Eichstätt- Ingolstadt
+Professor M. Zehetleitner
+
+Pre-registeration– Follow-Up to Translation and Validation of the 4-CTSQ-D
+
+Abstract
+A1 Background
+The 4-CTSQ represents a new approach to assess and differentiate human thinking better than it
+has been done in previous science. In contrast to the one-dimensional differentiation of thinking,
+based on the classical dual-process theory (Evans & Stanovich, 2013), Newton et al. assume a
+multidimensional differentiation of thinking styles, based on more modern dual-process theories
+(Newton et al., 2024; Pennycook et al., 2015; Thompson, 2009). The four thinking styles were determined by means of an exploratory factor analysis (AOT, CMT, PIT and PET) and the 4-CTSQ
+was subsequently created from this (Newton et al., 2024).
+
+A2 Objectives and Research questions
+First, the 4-CTSQ will be translated into German. In addition, the questionnaire will be validated by
+the regression between the different thinking styles and religious beliefs, paranormal beliefs, empathy, vaccination attitudes, actual behavior and the assessment of a moral dilemma. The focus of
+this study is the criterion validity (concurrent validity).
+
+A3 Participants
+A random sample of German participants will be recruited. The questionnaire will be sent out as an
+anonymous, non-personalized link on various platforms. Furthermore, the survey will be distributed
+and conducted in the personal environment of the authors (students).
+
+A4 Study method
+The online survey consists of German translations of the 4-CTSQ questionnaire (Newton et al.,
+2024), an extended version of the CRT (based on Frederick, 2005; Newton et al, 2024; Thomson
+& Oppenheimer, 2016), and an adapted version of the Heuristics and Biases battery (Toplak et al.,
+2011).
+
+3
+Department for General Psychology II – Catholic University of Eichstätt- Ingolstadt
+Professor M. Zehetleitner
+
+Pre-registeration– Follow-Up to Translation and Validation of the 4-CTSQ-D
+
+Introduction
+I1 Background
+This addendum builds on the original preregistration, which provided the theoretical background
+on thinking styles, outlined limitations of dual-process approaches, and introduced the 4-Component Thinking Style Questionnaire (4-CTSQ) as a multidimensional measure of intuitive and analytical tendencies. That preregistration also detailed our goal of translating and validating the German
+4-CTSQ (4-CTSQ-D) using the TRAPD procedure and multiple external constructs. Here, we add a
+replication of the CRT–4-CTSQ association because our prior validation sample was highly academic and likely more familiar with the CRT; full theoretical rationale and methodological background are available in the original preregistration.
+
+Aim of this study
+The aim of this study is to reinvestigate the relationship between the 4-CTSQ-D and the CRT in a
+sample which is less academic than in the validation study.
+
+I2 Objectives and research questions
+Determine connections between self-assessment of one's thinking style and actual behavior (CRT).
+What are the connections between the thinking styles and actual behavior (CRT; heuristic and biases)?
+
+I3 Predictions (hypotheses)
+Replication expectations:
+Based on the results of the Newton et al. study, expectations arise that
+- AOT is a predictor for CRT and HB (positive)
+- PIT is a predictor for CRT and HB (negative)
+- PET is a predictor for CRT and HB (positive)
+
+I4 Exploratory research questions
+None.
+
+4
+Department for General Psychology II – Catholic University of Eichstätt- Ingolstadt
+Professor M. Zehetleitner
+
+Pre-registeration– Follow-Up to Translation and Validation of the 4-CTSQ-D
+
+Method
+M1 Time point of registration
+Preregistration before data collection.
+
+M2 Use of pre-existing data
+No existing data is used.
+
+M3 Sample size, power, and precision
+In Newton et al. (2023) investigated the predictive power of the thinking style subscales for the CRT
+in study 9 with 375 participants. We adopt a sequential design (along the lines of Schönbrodt et al.,
+2016). Minimum sample size will be 200 and maximal sample size 400. After 200 participants are
+collected, the Bayesian multiple linear regression will be calculated. If there is credible evidence for
+two thinking style subscales to predict CRT and two thinking style subscales to predict HB performance (i.e. BFincl>3), data collection will be terminated. If not, a further batch of 50 participants will
+be collected. This procedure terminates if the maximal sample size of 400 is reached.
+
+M4 Participant recruitment, selection, and compensation
+(a) Methods of recruitment
+A panel (bilendi & respondi, London, UK) were commissioned to collect a sample of German participants (N between 200 and 400, see M3). The questionnaire was sent via an anonymous, nonpersonal link.
+
+(b) Exclusion criteria
+Participants are excluded who
+did not accept the declaration of consent
+did not complete the questionnaire in full
+did not answer “Stimme eher nicht zu” at the attention check (“Bitte wählen Sie die Antwortoption “Stimme eher nicht zu” aus, um zu zeigen, dass sie aufmerksam lesen”) (Check
+= 0), - did not answer ‘Strongly disagree’ at the attention check (‘Please select the answer
+option ’Strongly disagree‘ to show that you read attentively’) (Check = 0)
+Participants who indicate that they have used aids (e.g., search engine or large language model),
+will also be excluded.
+-
+
+(c) details of any stratification sampling used
+Stratified random sampling is not used.
+
+(d) Planned participant drop-out
+Participants must be of legal age and speak German as their mother tongue.
+
+(e) Compensation for participation
+Participants will be reimbursed by the panel company.
+
+M5 Handling of participant drop-out
+Only the data of people who have completed the survey will be used.
+5
+Department for General Psychology II – Catholic University of Eichstätt- Ingolstadt
+Professor M. Zehetleitner
+
+Pre-registeration– Follow-Up to Translation and Validation of the 4-CTSQ-D
+
+M6 Masking of participants and researchers
+The survey is anonymous and does not allow any conclusions to be drawn about a person's identity.
+
+M7 Data cleaning and screening
+See analysis plan (AP1).
+
+M8 Treatment of missing data
+If missing values occur, the MICE algorithm is used as an R package (Wilson, 2021) to fill in missing values.
+
+M9 Other information (optional)
+N.A.
+
+M10 Type of study and study design
+This is a self-report questionnaire study with a cross-sectional design.
+
+M11 Randomization
+None.
+
+M12 Measured variables, manipulated variables, covariates
+Predictors: Scales of the 4-CTSQ-D (‘AOT’, ‘PET’, ‘PIT’, ‘CMT’), outcome: cognitive reflection task
+(‘CRT’), covariates: age, gender, socioeconomic status based on income per household member,
+education and occupational qualification.
+
+M13 Study Materials
+The questionnaire consists of:
+•
+
+4-CTSQ-D (German translation of the 4-CTSQ by Newton et al., 2024)) with subscales
+‘AOT’, ‘CMT’, “PIT”, ‘PET’
+
+•
+
+An extended 10-item version of the CRT (after Frederick, 2005; Newton et al., 2024; Thomson & Oppenheimer, 2016): ‘CRT’
+An adapted 14-item version of the Heuristics and Biases Battery (after Toplak et al., 2011):
+‘HB’
+
+•
+
+Item code
+
+Type of problem
+
+HB_1
+
+Sample size neglect / law of small numbers
+
+HB_2
+
+Gambler’s fallacy / misunderstanding of independence
+
+HB_3
+
+Conjunction fallacy; representativeness heuristic; base rate
+neglect
+
+HB_4
+
+Sample size neglect / misunderstanding of the law of large
+numbers
+
+HB_5
+
+Probability matching vs. maximizing
+6
+
+Department for General Psychology II – Catholic University of Eichstätt- Ingolstadt
+Professor M. Zehetleitner
+
+Pre-registeration– Follow-Up to Translation and Validation of the 4-CTSQ-D
+
+Item code
+
+Type of problem
+
+HB_6
+
+Sunk cost fallacy
+
+HB_7
+
+Control case for sunk cost (normative choice: no sunk cost)
+
+HB_8
+
+Base rate neglect; anecdotal evidence overweighting;
+availability bias
+
+HB_9
+
+Base rate neglect; representativeness heuristic
+
+HB_10
+
+Base rate neglect / confusion of conditional probabilities
+
+HB_11
+
+Ratio bias / denominator neglect
+
+HB_12
+
+Gambler’s fallacy / hot-hand reasoning
+
+HB_13
+
+Outcome bias (positive outcome)
+
+HB_14
+
+Outcome bias (negative outcome)
+
+M14 Study Procedures
+The questionnaire will be available online via a non-personalized link.
+
+Analysis plan
+AP1 Criteria for post-data collection exclusion of participants
+See above.
+
+AP2 Criteria for post-data collection exclusions on trial level
+In the CRT participants are asked which – if any – of the problems they were familiar with. Problems
+indicated as familiar will be removed from calculating the mean CRT score.
+
+AP3 Data preprocessing
+After the data collection, the data set with numerical and verbal responses will be downloaded
+from Qualtrics as a .csv and a .sav file. The data is aggregated in ‘R’ (R Core Team, 2021). The aggregated data is statistically analyzed using JASP (JASP Team, 2025).
+
+Scale and subscale scores
+For the CTSQ subscale averages will be calculated for AOT, PIT, CMT, and PET. For the CRT and
+the HB, the average proportion of correct responses will be calculated. All averaged values will be
+z-transformed. Socio-economic status (SES) will be calculated as the sum of the averages of the ztransformed variables income per household member, education, and occupational qualification.
+
+AP6 Statistical models
+We will calculate two Bayesian multiple regression in JASP with outcomes CRT and HB and the
+four CTSQ subscales as predictors. Covariates age, SES, and gender will also be entered as predictors.
+
+7
+Department for General Psychology II – Catholic University of Eichstätt- Ingolstadt
+Professor M. Zehetleitner
+
+Pre-registeration– Follow-Up to Translation and Validation of the 4-CTSQ-D
+The Bayesian linear regression will use JASP’s default JZS priors on all regression coefficients (rscale = 0.354), a beta–binomial model prior with parameters α = 1 and β = 1 for model space, and
+a g-prior with α = 3 for model averaging.
+To check the requirements for a linear regression, independence, uniform distribution and normal
+distribution of the residuals, ‘Residuals vs. fitted’ and ‘Q-Q plot of model averaged residuals’ are
+selected in the section “Plots”. The resulting outputs ‘Residuals vs Fitted’ and ‘Q-Q Plot’ are then
+checked visually. For independent and equally distributed residuals, the residuals in the ‘Residual
+vs Fitted’ graph are distributed around the zero line. For normally distributed residuals, the points in
+the ‘Q-Q Plot’ graph lie on the red line.
+Here is the JASP code for the model with the JASP default values.:
+jaspRegression::RegressionLinearBayesian(
+version = “0.19.2”,
+formula = CRT_z ~ AOT_Mean_z + PET_Mean_z + PIT_Mean_z + CMT_Mean_z + SES + age_z + gender_z,
+bayesFactorOrder = "nullModelTop",
+bayesFactorType = "BF10",
+bernoulliParam = 0.5,
+betaBinomialParamA = 1,
+betaBinomialParamB = 1,
+castilloParamU = 1,
+effectsType = "allModels",
+gPriorAlpha = 3,
+inclusionProbabilitiesPlot = FALSE,
+jzsRScale = 0.354,
+modelPrior = "betaBinomial",
+numericalAccuracy = 1000,
+priorRegressionCoefficients = "jzs",
+qqPlot = TRUE,
+samplingMethod = "bas",
+summaryType = "averaged",
+wilsonParamLambda = 1)
+
+For the HB outcome:
+formula = HB_z ~ AOT_Mean_z + PET_Mean_z + PIT_Mean_z + CMT_Mean_z + SES + age_z + gender_z,
+
+AP7 Inference criteria
+The classification scheme shown in Table 1 is used to interpret the results (Lee & Wagenmakers,
+2013). To accept an H1, it is specified that the Bayes factor BFincl for the respective predictor must
+show at least moderate evidence for H1. The 95 % credible interval is used to test the direction of
+the hypotheses. Hence, positive values indicate a positive influence on the respective criterion.
+That is, an effect will be interpreted as credible if BFincl >3 and as credibly absent if BFincl < 1/3. In
+Table 1: Interpretation scheme of Bayes Faktors (BF10)
+
+Bayes Factor
+> 100
+30 – 100
+10 – 30
+
+Evidence category
+Extreme Evidence for H1
+Very strong Evidence for H1
+Strong Evidence for H1
+8
+
+Department for General Psychology II – Catholic University of Eichstätt- Ingolstadt
+Professor M. Zehetleitner
+
+Pre-registeration– Follow-Up to Translation and Validation of the 4-CTSQ-D
+3 – 10
+1–3
+1
+1/3 – 1
+1/10 – 1/3
+1/30 – 1/10
+1/100 – 1/30
+< 1/100
+
+Moderate Evidence for H1
+Anecdotal Evidence for H1
+No Evidence
+Anecdotal Evidence for H0
+Moderate Evidence for H0
+Strong Evidence for H0
+Very strong Evidence for H0
+Extreme Evidence for H0
+
+AP8 Exploratory analysis (optional)
+No exploratory analyses are conducted.
+
+AP9 Other information (optional)
+N.A.
+
+9
+Department for General Psychology II – Catholic University of Eichstätt- Ingolstadt
+Professor M. Zehetleitner
+
+Pre-registeration– Follow-Up to Translation and Validation of the 4-CTSQ-D
+
+References
+Evans, J. S. B. T. & Stanovich, K. E. (2013). Dual-process theories of higher cognition: Advancing
+the debate. Perspectives on Psychological Science, 8(3), 223–
+241. https://doi.org/10.1177/1745691612460685
+Frederick, S. (2005). Cognitive reflection and decision making. Journal of Economic Perspectives,
+19(4), 25–42. https://doi.org/10.1257/089533005775196732
+JASP Team. (2024). JASP (Version 0.19.3) [Computer software].
+Lee, M. D. & Wagenmakers, E.-J. (2013). Bayesian cognitive modeling: A practical course.
+Cambridge Univ. Press. https://doi.org/10.1017/CBO9781139087759
+Newton, C., Feeney, J. & Pennycook, G. (2024). On the Disposition to Think Analytically: Four
+Distinct Intuitive-Analytic Thinking Styles. Personality & Social Psychology Bulletin, 50(6),
+906–923. https://doi.org/10.1177/01461672231154886
+Pennycook, G., Fugelsang, J. A. & Koehler, D. J. (2015). What makes us think? A three-stage
+dual-process model of analytic engagement. Cognitive Psychology, 80, 34–
+72. https://doi.org/10.1016/j.cogpsych.2015.05.001
+Qualtrics. (2025). Qualtrics. https://www.qualtrics.com
+R Core Team. (2021). R: A language and environment for statistical computing [Computer
+software]. R Foundation for Statistical Computing. https://www.R-project.org/
+Thompson, V. A. (2009). Dual-process theories: A metacognitive perspective. In J. S. B. T. Evans
+& K. Frankish (Hrsg.), In two minds: Dual processes and beyond (S. 171–196). Oxford
+University Press. https://doi.org/10.1093/acprof:oso/9780199230167.003.0008
+Thomson, K. S. & Oppenheimer, D. M. (2016). Investigating an alternate form of the cognitive
+reflection test. Judgment and Decision Making, 11(1), 99–
+113. https://doi.org/10.1037/t49856-000
+Wilson, S. (2021, September 6). The MICE Algorithm. Cran.r.project. https://cran.rproject.org/web/packages/miceRanger/vignettes/miceAlgorithm.html
+
+10
+Department for General Psychology II – Catholic University of Eichstätt- Ingolstadt
+Professor M. Zehetleitner
+
+Pre-registeration– Follow-Up to Translation and Validation of the 4-CTSQ-D
+
+Appendix
+Items in the CRT
+•
+
+Original Item (German)
+
+English Translation
+
+Mark und Adam sind insgesamt 28 Jahre alt. Mark ist 20
+Jahre älter als Adam. Wie alt ist Adam in Jahren? (Bitte
+nur die Ziffern angeben) Alter:
+Wenn 10 Drucker 10 Sekunden brauchen, um 10 Seiten
+Papier auszudrucken, wie viele Sekunden brauchen dann
+50 Drucker, um 50 Seiten Papier auszudrucken? (Bitte
+nur die Ziffern angeben) Sekunden:
+Auf einem Laib Brot ist ein Schimmelfleck. Jeden Tag
+verdoppelt sich die Größe des Flecks. Wenn es 40 Tage
+dauert, bis der Fleck den ganzen Brotlaib bedeckt, wie
+viele Tage würde es dann dauern, bis der Fleck die Hälfte
+des Brotes bedeckt? (Bitte nur die Ziffern angeben)
+Wenn man ein Rennen läuft und die Person auf dem
+zweiten Platz überholt, auf welchem Platz ist man dann?
+(Bitte nur die Ziffern angeben)
+Ein Bauer hatte 15 Schafe und alle bis auf 8 sind gestorben. Wie viele sind übrig geblieben? (Bitte nur die Ziffern
+angeben)
+Emilys Vater hat drei Töchter. Die ersten beiden heißen
+April und Mai. Wie heißt die dritte Tochter? (Bitte nur einen Namen angeben)
+Wie viele Kubikmeter Erde sind in einem Loch, welches 3
+Meter tief, 3 Meter breit und 3 Meter lang ist? (Bitte nur
+die Ziffern angeben)
+In einer Sportmannschaft gewinnen große Personen dreimal so häufig eine Goldmedaille wie kleine Personen. Dieses Jahr hat die Mannschaft 60 Medaillen gewonnen.
+Wie viele davon haben die kleinen Personen gewonnen?
+Du hast nur ein Streichholz und gehst in einen dunklen
+Raum, in dem sich eine Öllampe, eine Zeitung und Feuerholz befinden. Was zündest du zuerst an?
+Sie haben soeben 10 Textaufgaben bearbeitet. Wie viele
+davon haben Sie Ihrer Einschätzung nach richtig beantwortet? 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Haben Sie eine dieser 10 Aufgaben schon einmal gesehen? Ja, Nein, Weiß nicht
+Bitte beantworten Sie diese Frage wahrheitsgemäß. Ihre
+Antwort ist anonym, wie alle anderen Antworten. Auch
+bekommen Sie keinen Nachteil, sollten Sie Hilfsmittel verwendet haben. Welche Hilfsmittel haben Sie verwendet,
+um die Fragen zu beantworten? Keine Hilfsmittel, Suchmaschine (z.B. Google), Sprachmodell (z.B. chatGPT),
+andere
+
+Mark and Adam are together 28 years old. Mark is 20
+years older than Adam. How old is Adam in years?
+(Please provide digits only) Age:
+If 10 printers take 10 seconds to print 10 pages, how
+many seconds do 50 printers need to print 50 pages?
+(Please provide digits only) Seconds:
+There is a mold spot on a loaf of bread. Each day the
+spot doubles in size. If it takes 40 days until the spot covers the entire loaf, how many days would it take for the
+spot to cover half of the loaf? (Please provide digits only)
+If you are running a race and overtake the person in second place, what place are you in? (Please provide digits
+only)
+A farmer had 15 sheep and all but 8 died. How many remain? (Please provide digits only)
+Emily’s father has three daughters. The first two are
+named April and May. What is the name of the third
+daughter? (Please provide one name)
+How many cubic meters of soil are in a hole that is 3 meters deep, 3 meters wide, and 3 meters long? (Please
+provide digits only)
+In a sports team, tall people win gold medals three times
+as often as short people. This year, the team won 60
+medals. How many of these were won by the short people?
+You have only one match and enter a dark room in which
+there is an oil lamp, a newspaper, and firewood. What do
+you light first?
+You have just completed 10 text problems. How many of
+them do you believe you answered correctly? 0, 1, 2, 3,
+4, 5, 6, 7, 8, 9, 10
+Have you seen any of these 10 problems before? Yes,
+No, Don’t know
+Please answer this question truthfully. Your answer is
+anonymous, like all other answers. You will not be disadvantaged if you used aids. Which aids did you use to answer the questions? No aids, Search engine (e.g.,
+Google), Language model (e.g., ChatGPT), Other
+
+11
+Department for General Psychology II – Catholic University of Eichstätt- Ingolstadt
+Professor M. Zehetleitner
+
+Pre-registeration– Follow-Up to Translation and Validation of the 4-CTSQ-D
+
+Items in the Heuristics and Biases battery
+Item (German)
+
+Item (English translation)
+
+HB_Inst Im nächsten Abschnitt bearbeiten Sie mehrere
+Denkaufgaben, in denen es um Wahrscheinlichkeiten,
+Urteile und Entscheidungen geht. Oft gibt es eine objektiv
+bessere Antwort, verlassen Sie sich aber auf Ihr eigenes
+Urteil und Ihre Intuition. Nutzen Sie keine Hilfsmittel (z. B.
+Taschenrechner, Internet).
+
+HB_Inst In the next section, you will work on several
+thinking problems involving probabilities, judgments, and
+decisions. Often there is an objectively better answer, but
+please rely on your own judgment and intuition. Do not use
+any aids (e.g., calculator, internet).
+
+HB_1 Eine Stadt wird von zwei Krankenhäusern versorgt.
+Im größeren Krankenhaus werden täglich etwa 45 Babys HB_1 A city is served by two hospitals. In the larger
+geboren und im kleineren Krankenhaus etwa 15 Babys pro hospital, about 45 babies are born each day, and in the
+Tag. Durchschnittlich sind 50 Prozent aller Babys Jungen. smaller hospital about 15 babies per day. On average, 50
+Der genaue Prozentsatz schwankt jedoch von Tag zu Tag. percent of all babies are boys. However, the exact
+Manchmal ist er höher als 50 Prozent, manchmal niedriger. percentage varies from day to day. Sometimes it is higher
+Über einen Zeitraum von einem Jahr hat jedes
+than 50 percent, sometimes lower. Over a period of one
+Krankenhaus die Tage aufgezeichnet, an denen mehr als year, each hospital recorded the days on which more than
+60 Prozent der Neugeborenen Jungen waren. Welches
+60 percent of the newborns were boys. Which hospital do
+Krankenhaus verzeichnete Ihrer Meinung nach mehr
+you think recorded more such days?o The larger hospitalo
+solcher Tage?o Das größere Krankenhauso Das kleinere
+The smaller hospitalo Both about the same (i.e., they do
+Krankenhauso Beide ungefähr gleich (d. h. sie weichen
+not differ by more than 5 percent)
+nicht mehr als 5 Prozent voneinander ab)
+HB_2 Stellen Sie sich vor, wir werfen eine faire Münze (eine
+Münze, bei der die Wahrscheinlichkeit, dass sie Kopf oder HB_2 Imagine we toss a fair coin (a coin for which the
+Zahl zeigt, 50:50 beträgt). Diese Münze ist gerade 5 Mal
+probability of heads or tails is 50:50). This coin has just
+hintereinander auf Kopf gefallen. Was glauben Sie: Beim 6. landed on heads 5 times in a row. What do you think: On
+Wurf…o ...ist es wahrscheinlicher, dass Zahl herauskommt the 6th toss…o ...it is more likely that tails will come up
+als Kopf.o ...ist es wahrscheinlicher, dass Kopf
+than heads.o ...it is more likely that heads will come up
+herauskommt als Zahl.o ...sind Kopf und Zahl gleich
+than tails.o ...heads and tails are equally likely.
+wahrscheinlich.
+HB_3 Linda ist 31 Jahre alt, ledig, aufgeschlossen und
+HB_3 Linda is 31 years old, single, outgoing, and very
+sehr intelligent. Sie hat Philosophie studiert. Als Studentin
+intelligent. She studied philosophy. As a student, she was
+beschäftigte sie sich intensiv mit Fragen der
+heavily involved with issues of discrimination and social
+Diskriminierung und sozialen Gerechtigkeit und nahm auch
+justice and also took part in Fridays for Future
+an Fridays for Future Demonstrationen teil. Welche
+demonstrations. Which statement is more likely?o Linda is
+Aussage ist wahrscheinlicher?o Linda ist Bankangestellte.o
+a bank employee.o Linda is a bank employee and is active
+Linda ist Bankangestellte und engagiert sich in der
+in the women’s movement.
+Frauenbewegung.
+HB_4 Zwei Tischtennisspieler (Spieler A und Spieler B)
+HB_4 Two table tennis players (player A and player B) are
+überlegen, ob sie ein Spiel bis 9 oder bis 15 Punkte spielen considering whether to play a game to 9 points or to 15
+sollen. Spieler A ist der bessere Spieler. Bei welcher der
+points. Player A is the better player. In which of the two
+beiden Spielformen hat Spieler A eine größere Chance zu formats does player A have a higher chance of winning?o
+gewinnen?o 9o 15o Bei beiden Spielformen sind die
+9o 15o In both formats, A’s chances of winning are the
+Gewinnchancen für A gleich
+same.
+HB_5 Ein Würfel hat 4 rote und 2 grüne Seiten und wird 60 HB_5 A die has 4 red and 2 green sides and is rolled 60
+Mal geworfen. Sie werden vor jedem Wurf gefragt, welche times. Before each roll you are asked which color will be
+Farbe geworfen wird. Für jede richtige Vorhersage
+rolled. For every correct prediction you receive 5 euros.
+bekommen Sie 5 Euro. Welche der folgenden Strategien
+Which of the following strategies would you choose?o I
+würden Sie wählen?o Ich würde mich auf mein
+would rely on my gut feeling. If one color appears too
+Bauchgefühl verlassen. Wenn eine Farbe zu häufig
+often, I change my prediction.o I choose the more likely
+erscheint, ändere ich meine Vorhersage.o Ich wähle die
+red color most of the time. After a long series of red,
+
+12
+Department for General Psychology II – Catholic University of Eichstätt- Ingolstadt
+Professor M. Zehetleitner
+
+Pre-registeration– Follow-Up to Translation and Validation of the 4-CTSQ-D
+
+Item (German)
+
+Item (English translation)
+
+meiste Zeit die wahrscheinlichere rote Farbe. Nach einer
+however, I sometimes predict green.o I make my
+langen Serie von Rot sage ich aber auch manchmal Grün predictions according to the frequencies (4 out of 6 for red;
+vorher.o Ich mache die Vorhersage entsprechend der
+2 out of 6 for green). That is, I predict red twice as often as
+Häufigkeit des Auftretens (4 von 6 für Rot; 2 von 6 für
+green.o For all 60 rolls, I predict the color red.
+Grün). Das bedeutet, ich sage doppelt so häufig rote Würfe
+wie grüne vorher.o Bei allen 60 Würfen sage ich die Farbe
+Rot vorher.
+HB_6 Sie übernachten in einem Hotel. Sie haben 6,95
+Euro bezahlt, um einen Film im Pay-TV zu sehen. Nach 5
+Minuten merken Sie, dass der Film langweilig ist. Würden
+Sie den Film weiter anschauen oder nicht?o Ich schaue
+den Film weitero Ich mache den Film aus
+
+HB_6 You are spending the night in a hotel. You paid 6.95
+euros to watch a movie on pay TV. After 5 minutes, you
+realize that the movie is boring. Would you continue
+watching the movie or not?o I continue watching the
+movie.o I turn off the movie.
+
+HB_7 Sie übernachten in einem Hotel. Sie schalten den
+Fernseher ein und es läuft ein Film. Nach 5 Minuten
+merken Sie, dass der Film langweilig ist. Würden Sie den
+Film weiter anschauen oder nicht?o Ich schaue den Film
+weitero Ich mache den Film aus
+
+HB_7 You are spending the night in a hotel. You turn on
+the television and a movie is playing. After 5 minutes, you
+realize that the movie is boring. Would you continue
+watching the movie or not?o I continue watching the
+movie.o I turn off the movie.
+
+HB_8 Die Müllers wollen beim nächsten Autokauf ein
+sicheres und langlebiges schwedisches Auto: entweder
+HB_8 The Müllers want their next car to be a safe and
+einen Volvo oder einen Saab. Ihr altes Auto geht genau am
+long-lasting Swedish car: either a Volvo or a Saab. Their
+letzten Tag eines Sonderrabattes kaputt, der für Volvo und
+old car breaks down exactly on the last day of a special
+Saab gilt. Ab morgen fällt der Rabatt weg, also müssen sie
+discount that applies to both Volvo and Saab. The
+sich heute entscheiden. Beide Autos kosten in etwa gleich
+discount ends tomorrow, so they have to decide today.
+viel. In Verbraucherberichten lesen sie: Beide Marken
+Both cars cost roughly the same. In consumer reports they
+gelten als sehr zuverlässig, aber Volvo wird als etwas
+read: Both brands are considered very reliable, but Volvo is
+besser eingestuft und Volvo-Besitzer berichten insgesamt
+rated slightly better and Volvo owners report fewer
+von weniger Problemen als Saab-Besitzer. Bevor sie zum
+problems overall than Saab owners. Before they go to the
+Volvo-Händler fahren, rufen sie drei Freunde an: Die zwei
+Volvo dealer, they call three friends: The two Saab owners
+Saab-Besitzer berichten von kleineren, aber nicht
+report minor, but not serious, problems. The Volvo owner,
+schlimmen Problemen. Der Volvo-Besitzer dagegen
+however, answers angrily: “First, an expensive computer
+antwortet wütend: „Erst ging ein teures Computerteil der
+part in the fuel injection failed, then there were problems
+Einspritzung kaputt, dann gab es Probleme mit dem Heck,
+with the rear end, then with the transmission and the
+danach mit Getriebe und Kupplung.“ Nach drei Jahren hat
+clutch.” After three years he finally sold the Volvo as scrap.
+er den Volvo schließlich als Schrott verkauft. Angesichts
+Given that the Müllers will buy either a Volvo or a Saab
+dessen, dass die Müllers heute entweder einen Volvo oder
+today, what do you think they should buy?o They should
+einen Saab kaufen werden: Was sollten sie Ihrer Meinung
+definitely buy a Saab.o They should rather buy a Saab.o
+nach kaufen?o Sie sollten auf jeden Fall einen Saab
+They should rather buy a Volvo.o They should definitely
+kaufen.o Sie sollten eher einen Saab kaufen.o Sie sollten
+buy a Volvo.
+eher einen Volvo kaufen.o Sie sollten auf jeden Fall einen
+Volvo kaufen.
+HB_9 An einer kleinen Universität studieren 4 von 5
+Studierenden Psychologie und 1 von 5 Philosophie. Sie
+lesen folgenden Text über Anna: „Anna liest gern
+anspruchsvolle Literatur und diskutiert viel über Ethik und
+Sinnfragen.“ Was ist wahrscheinlicher?o Anna studiert
+Psychologieo Anna studiert Philosophie
+
+HB_9 At a small university, 4 out of 5 students study
+psychology and 1 out of 5 philosophy. You read the
+following description of Anna: “Anna likes to read
+demanding literature and often discusses questions of
+ethics and the meaning of life.” Which is more likely?o
+Anna studies psychology.o Anna studies philosophy.
+
+HB_10 Auf einer Party sind 4 männliche Professoren und 8
+HB_10 At a party there are 4 male professors and 8 male
+männliche Führungskräfte. Von den 4 Professoren sind 3
+managers. Of the 4 professors, 3 are members of the
+Mitglied im „Bear’s Club“. Von den 8 Führungskräften sind
+“Bear’s Club”. Of the 8 managers, 4 are members of the
+4 Mitglied im „Bear’s Club“. Sie wissen: David ist Mitglied
+“Bear’s Club”. You know that David is a member of the
+im „Bear’s Club“. Was ist wahrscheinlicher?o David ist
+
+13
+Department for General Psychology II – Catholic University of Eichstätt- Ingolstadt
+Professor M. Zehetleitner
+
+Pre-registeration– Follow-Up to Translation and Validation of the 4-CTSQ-D
+
+Item (German)
+
+Item (English translation)
+
+Professoro David ist Führungskrafto Beides ist gleich
+wahrscheinlich
+
+“Bear’s Club”. Which is more likely?o David is a
+professor.o David is a manager.o Both are equally likely.
+
+HB_11 Vor Ihnen befinden sich zwei Tabletts mit
+schwarzen und weißen Murmeln: ein großes Tablett mit
+100 Murmeln und ein kleines Tablett mit 10 Murmeln. Die
+Murmeln sind in einer einzigen Schicht auf dem Tablett
+verteilt. Sie müssen, natürlich ohne hinzusehen, von einem
+der Tabletts ziehen. Wenn Sie eine schwarze Murmel
+ziehen, gewinnen Sie 5 Euro. Das kleine Tablett enthält 1
+schwarze und 9 weiße Murmeln. Das große Tablett enthält
+8 schwarze und 92 weiße Murmeln. Von welchem Tablett
+würden Sie lieber eine Murmel ziehen?o Aus dem kleinen
+Tablett (10 Kugeln)o Aus dem großen Tablett (100 Kugeln)
+
+HB_11 In front of you there are two trays with black and
+white marbles: a large tray with 100 marbles and a small
+tray with 10 marbles. The marbles are spread out in a
+single layer on the tray. You must draw from one of the
+trays, of course without looking. If you draw a black
+marble, you win 5 euros. The small tray contains 1 black
+and 9 white marbles. The large tray contains 8 black and
+92 white marbles. From which tray would you prefer to
+draw a marble?o From the small tray (10 marbles).o From
+the large tray (100 marbles).
+
+HB_12 Beim Spielen an Spielautomaten gewinnt man etwa
+HB_12 When playing slot machines, you win on about 1
+1 Mal von 10 Versuchen etwas. Julie hat jedoch gerade bei
+out of 10 plays. However, Julie has just won on her first
+ihren ersten drei Versuchen gewonnen. Wie hoch ist Julies
+three plays. What is Julie’s chance of winning on the next
+Chance beim nächsten Spiel zu gewinnen? Geben Sie ihre
+play? Indicate her chance on a scale from 1 to 10.o 0o 1o
+Chance auf einer Skala von 1 bis 10 an.o 0o 1o 2o 3o 4o
+2o 3o 4o 5o 6o 7o 8o 9o 10
+5o 6o 7o 8o 9o 10
+HB_14 Ein 55-jähriger Mann hatte ein Herzleiden. Wegen
+Brustschmerzen musste er aufhören zu arbeiten. Er
+mochte seine Arbeit und wollte nicht aufhören. Seine
+Schmerzen beeinträchtigten auch andere Dinge, wie
+Reisen und Freizeitaktivitäten. Eine Bypass-Operation
+würde seine Schmerzen lindern und seine
+Lebenserwartung von 65 auf 70 Jahre erhöhen. Allerdings
+sterben 8 % der Menschen, die sich dieser Operation
+unterziehen, an den Folgen der Operation. Fall 1: Sein Arzt
+entschied sich, die Operation durchzuführen. Die
+Operation ist fehlgeschlagen und der Mann ist gestorben.
+Bewerten Sie die Entscheidung des Arztes, die Operation
+durchzuführen.o Völlig richtigo Eher richtigo Weder richtig
+noch falscho Eher falscho Völlig falsch
+
+HB_14 A 55-year-old man had a heart condition. Because
+of chest pain he had to stop working. He liked his job and
+did not want to stop. His pain also interfered with other
+things, such as traveling and leisure activities. A bypass
+operation would relieve his pain and increase his life
+expectancy from 65 to 70 years. However, 8% of people
+who undergo this operation die as a result of the surgery.
+Case 1: His doctor decided to perform the operation. The
+operation failed and the man died. Rate the doctor’s
+decision to perform the operation.o Completely righto
+Rather righto Neither right nor wrongo Rather wrongo
+Completely wrong
+
+HB_13 Nun ein sehr ähnlicher Fall: Ein 55-jähriger Mann
+HB_13 Now a very similar case: A 55-year-old man had a
+hatte ein Herzleiden. Wegen Brustschmerzen musste er
+aufhören zu arbeiten. Er mochte seine Arbeit und wollte
+heart condition. Because of chest pain he had to stop
+nicht aufhören. Seine Schmerzen beeinträchtigten auch
+working. He liked his job and did not want to stop. His pain
+andere Dinge, wie Reisen und Freizeitaktivitäten. Eine
+also interfered with other things, such as traveling and
+Bypass-Operation würde seine Schmerzen lindern und
+leisure activities. A bypass operation would relieve his pain
+seine Lebenserwartung von 65 auf 70 Jahre erhöhen.
+and increase his life expectancy from 65 to 70 years.
+Allerdings sterben 8 % der Menschen, die sich dieser
+However, 8% of people who undergo this operation die as
+Operation unterziehen, an den Folgen der Operation. Fall a result of the surgery. Case 2: His doctor decided to
+2: Sein Arzt entschied sich, die Operation durchzuführen. perform the operation. The operation was successful. Rate
+Die Operation war erfolgreich. Bewerten Sie die
+the doctor’s decision to perform the operation.o
+Entscheidung des Arztes, die Operation durchzuführen.o Completely righto Rather righto Neither right nor wrongo
+Völlig richtigo Eher richtigo Weder richtig noch falscho Eher Rather wrongo Completely wrong
+falscho Völlig falsch
+HB_hilfsmittel Please answer this question truthfully. Your
+HB_hilfsmittel Bitte beantworten Sie diese Frage
+wahrheitsgemäß. Ihre Antwort ist anonym, wie alle anderen answer is anonymous, like all the other answers. You will
+not be disadvantaged if you used aids. Did you use any
+Antworten. Auch bekommen Sie keinen Nachteil, sollten
+Sie Hilfsmittel verwendet haben sollten. Haben Sie
+aids to answer the questions?▢ I did not use any aids▢
+
+14
+Department for General Psychology II – Catholic University of Eichstätt- Ingolstadt
+Professor M. Zehetleitner
+
+Pre-registeration– Follow-Up to Translation and Validation of the 4-CTSQ-D
+
+Item (German)
+
+Item (English translation)
+
+Hilfsmittel benutzt, um die Fragen zu beantworten?▢ Ich
+Search engine (e.g., Google)▢ Language model (e.g.,
+habe keine Hilfsmittel verwendet▢ Suchmaschine (z.B.
+ChatGPT)▢ Other, namely:
+__________________________________________________
+Google)▢ Sprachmodell (z.B. chatGPT)▢ andere und
+zwar:
+__________________________________________________
+
+15
+Department for General Psychology II – Catholic University of Eichstätt- Ingolstadt
+Professor M. Zehetleitner
+
+

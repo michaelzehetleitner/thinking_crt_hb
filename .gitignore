@@ -1,0 +1,43 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# renv (keep renv.lock tracked)
+renv/library/
+renv/staging/
+renv/python/
+renv/activate.R
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
+*~
+
+# Office temp files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# JASP
+*.jasp

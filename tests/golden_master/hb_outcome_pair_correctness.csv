@@ -1,0 +1,15 @@
+hb_13_label,hb_14_label,correct,incorrect
+Eher falsch,Eher falsch,3,0
+Eher falsch,Eher richtig,0,1
+Eher falsch,Völlig richtig,0,1
+Eher richtig,Eher falsch,0,1
+Eher richtig,Eher richtig,17,0
+Eher richtig,Völlig richtig,0,1
+Eher richtig,Weder richtig noch falsch,0,6
+Völlig falsch,Völlig falsch,1,0
+Völlig richtig,Eher richtig,0,3
+Völlig richtig,Völlig richtig,20,0
+Völlig richtig,Weder richtig noch falsch,0,1
+Weder richtig noch falsch,Eher falsch,0,1
+Weder richtig noch falsch,Eher richtig,0,1
+Weder richtig noch falsch,Weder richtig noch falsch,16,0

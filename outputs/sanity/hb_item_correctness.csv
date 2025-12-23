@@ -1,0 +1,319 @@
+item,item_text,response_display,incorrect,correct
+hb_10_num,"Auf einer Party sind 4 männliche Professoren und 8 männliche Führungskräfte.
+
+Von den 4 Professoren sind 3 Mitglied im „Bear’s Club“.
+
+Von den 8 Führungskräften sind 4 Mitglied im „Bear’s Club“.
+
+Sie wissen: David ist Mitglied im „Bear’s Club“.
+
+Was ist wahrscheinlicher?",Beides ist gleich wahrscheinlich,157,0
+hb_10_num,"Auf einer Party sind 4 männliche Professoren und 8 männliche Führungskräfte.
+
+Von den 4 Professoren sind 3 Mitglied im „Bear’s Club“.
+
+Von den 8 Führungskräften sind 4 Mitglied im „Bear’s Club“.
+
+Sie wissen: David ist Mitglied im „Bear’s Club“.
+
+Was ist wahrscheinlicher?",David ist Führungskraft,0,104
+hb_10_num,"Auf einer Party sind 4 männliche Professoren und 8 männliche Führungskräfte.
+
+Von den 4 Professoren sind 3 Mitglied im „Bear’s Club“.
+
+Von den 8 Führungskräften sind 4 Mitglied im „Bear’s Club“.
+
+Sie wissen: David ist Mitglied im „Bear’s Club“.
+
+Was ist wahrscheinlicher?",David ist Professor,116,0
+hb_11_num,"Vor Ihnen befinden sich zwei Tabletts mit schwarzen und weißen Murmeln: ein großes Tablett mit 100 Murmeln und ein kleines Tablett mit 10 Murmeln. Die Murmeln sind in einer einzigen Schicht auf dem Tablett verteilt.
+
+Sie müssen, natürlich ohne hinzusehen, von einem der Tabletts ziehen. Wenn Sie eine schwarze Murmel ziehen, gewinnen Sie 5 Euro. 
+
+Das kleine Tablett enthält 1 schwarze und 9 weiße Murmeln.
+Das große Tablett enthält 8 schwarze und 92 weiße Murmeln. 
+
+Von welchem Tablett würden Sie lieber eine Murmel ziehen?",Aus dem großen Tablett (100 Kugeln),153,0
+hb_11_num,"Vor Ihnen befinden sich zwei Tabletts mit schwarzen und weißen Murmeln: ein großes Tablett mit 100 Murmeln und ein kleines Tablett mit 10 Murmeln. Die Murmeln sind in einer einzigen Schicht auf dem Tablett verteilt.
+
+Sie müssen, natürlich ohne hinzusehen, von einem der Tabletts ziehen. Wenn Sie eine schwarze Murmel ziehen, gewinnen Sie 5 Euro. 
+
+Das kleine Tablett enthält 1 schwarze und 9 weiße Murmeln.
+Das große Tablett enthält 8 schwarze und 92 weiße Murmeln. 
+
+Von welchem Tablett würden Sie lieber eine Murmel ziehen?",Aus dem kleinen Tablett (10 Kugeln),0,224
+hb_12_num,"Beim Spielen an Spielautomaten gewinnt man etwa 1 Mal von 10 Versuchen etwas. Julie hat jedoch gerade bei ihren ersten drei Versuchen gewonnen.
+
+Wie hoch ist Julies Chance beim nächsten Spiel zu gewinnen? Geben Sie ihre Chance auf einer Skala von 1 bis 10 an.",0,57,0
+hb_12_num,"Beim Spielen an Spielautomaten gewinnt man etwa 1 Mal von 10 Versuchen etwas. Julie hat jedoch gerade bei ihren ersten drei Versuchen gewonnen.
+
+Wie hoch ist Julies Chance beim nächsten Spiel zu gewinnen? Geben Sie ihre Chance auf einer Skala von 1 bis 10 an.",1,0,123
+hb_12_num,"Beim Spielen an Spielautomaten gewinnt man etwa 1 Mal von 10 Versuchen etwas. Julie hat jedoch gerade bei ihren ersten drei Versuchen gewonnen.
+
+Wie hoch ist Julies Chance beim nächsten Spiel zu gewinnen? Geben Sie ihre Chance auf einer Skala von 1 bis 10 an.",10,10,0
+hb_12_num,"Beim Spielen an Spielautomaten gewinnt man etwa 1 Mal von 10 Versuchen etwas. Julie hat jedoch gerade bei ihren ersten drei Versuchen gewonnen.
+
+Wie hoch ist Julies Chance beim nächsten Spiel zu gewinnen? Geben Sie ihre Chance auf einer Skala von 1 bis 10 an.",2,32,0
+hb_12_num,"Beim Spielen an Spielautomaten gewinnt man etwa 1 Mal von 10 Versuchen etwas. Julie hat jedoch gerade bei ihren ersten drei Versuchen gewonnen.
+
+Wie hoch ist Julies Chance beim nächsten Spiel zu gewinnen? Geben Sie ihre Chance auf einer Skala von 1 bis 10 an.",3,40,0
+hb_12_num,"Beim Spielen an Spielautomaten gewinnt man etwa 1 Mal von 10 Versuchen etwas. Julie hat jedoch gerade bei ihren ersten drei Versuchen gewonnen.
+
+Wie hoch ist Julies Chance beim nächsten Spiel zu gewinnen? Geben Sie ihre Chance auf einer Skala von 1 bis 10 an.",4,21,0
+hb_12_num,"Beim Spielen an Spielautomaten gewinnt man etwa 1 Mal von 10 Versuchen etwas. Julie hat jedoch gerade bei ihren ersten drei Versuchen gewonnen.
+
+Wie hoch ist Julies Chance beim nächsten Spiel zu gewinnen? Geben Sie ihre Chance auf einer Skala von 1 bis 10 an.",5,69,0
+hb_12_num,"Beim Spielen an Spielautomaten gewinnt man etwa 1 Mal von 10 Versuchen etwas. Julie hat jedoch gerade bei ihren ersten drei Versuchen gewonnen.
+
+Wie hoch ist Julies Chance beim nächsten Spiel zu gewinnen? Geben Sie ihre Chance auf einer Skala von 1 bis 10 an.",6,9,0
+hb_12_num,"Beim Spielen an Spielautomaten gewinnt man etwa 1 Mal von 10 Versuchen etwas. Julie hat jedoch gerade bei ihren ersten drei Versuchen gewonnen.
+
+Wie hoch ist Julies Chance beim nächsten Spiel zu gewinnen? Geben Sie ihre Chance auf einer Skala von 1 bis 10 an.",7,14,0
+hb_12_num,"Beim Spielen an Spielautomaten gewinnt man etwa 1 Mal von 10 Versuchen etwas. Julie hat jedoch gerade bei ihren ersten drei Versuchen gewonnen.
+
+Wie hoch ist Julies Chance beim nächsten Spiel zu gewinnen? Geben Sie ihre Chance auf einer Skala von 1 bis 10 an.",8,2,0
+hb_13_num,"Nun ein sehr ählicher Fall:
+
+
+
+Ein 55-jähriger Mann hatte ein Herzleiden. Wegen Brustschmerzen musste er aufhören zu arbeiten. Er mochte seine Arbeit und wollte nicht aufhören. Seine Schmerzen beeinträchtigten auch andere Dinge, wie Reisen und Freizeitaktivitäten. Eine Bypass-Operation würde seine Schmerzen lindern und seine Lebenserwartung von 65 auf 70 Jahre erhöhen. Allerdings sterben 8 % der Menschen, die sich dieser Operation unterziehen, an den Folgen der Operation.
+
+
+
+Fall 2:
+
+Sein Arzt entschied sich, die Operation durchzuführen.
+
+Die Operation war erfolgreich.
+
+
+
+Bewerten Sie die Entscheidung des Arztes, die Operation durchzuführen.",Eher falsch,6,10
+hb_13_num,"Nun ein sehr ählicher Fall:
+
+
+
+Ein 55-jähriger Mann hatte ein Herzleiden. Wegen Brustschmerzen musste er aufhören zu arbeiten. Er mochte seine Arbeit und wollte nicht aufhören. Seine Schmerzen beeinträchtigten auch andere Dinge, wie Reisen und Freizeitaktivitäten. Eine Bypass-Operation würde seine Schmerzen lindern und seine Lebenserwartung von 65 auf 70 Jahre erhöhen. Allerdings sterben 8 % der Menschen, die sich dieser Operation unterziehen, an den Folgen der Operation.
+
+
+
+Fall 2:
+
+Sein Arzt entschied sich, die Operation durchzuführen.
+
+Die Operation war erfolgreich.
+
+
+
+Bewerten Sie die Entscheidung des Arztes, die Operation durchzuführen.",Eher richtig,36,94
+hb_13_num,"Nun ein sehr ählicher Fall:
+
+
+
+Ein 55-jähriger Mann hatte ein Herzleiden. Wegen Brustschmerzen musste er aufhören zu arbeiten. Er mochte seine Arbeit und wollte nicht aufhören. Seine Schmerzen beeinträchtigten auch andere Dinge, wie Reisen und Freizeitaktivitäten. Eine Bypass-Operation würde seine Schmerzen lindern und seine Lebenserwartung von 65 auf 70 Jahre erhöhen. Allerdings sterben 8 % der Menschen, die sich dieser Operation unterziehen, an den Folgen der Operation.
+
+
+
+Fall 2:
+
+Sein Arzt entschied sich, die Operation durchzuführen.
+
+Die Operation war erfolgreich.
+
+
+
+Bewerten Sie die Entscheidung des Arztes, die Operation durchzuführen.",Völlig falsch,0,4
+hb_13_num,"Nun ein sehr ählicher Fall:
+
+
+
+Ein 55-jähriger Mann hatte ein Herzleiden. Wegen Brustschmerzen musste er aufhören zu arbeiten. Er mochte seine Arbeit und wollte nicht aufhören. Seine Schmerzen beeinträchtigten auch andere Dinge, wie Reisen und Freizeitaktivitäten. Eine Bypass-Operation würde seine Schmerzen lindern und seine Lebenserwartung von 65 auf 70 Jahre erhöhen. Allerdings sterben 8 % der Menschen, die sich dieser Operation unterziehen, an den Folgen der Operation.
+
+
+
+Fall 2:
+
+Sein Arzt entschied sich, die Operation durchzuführen.
+
+Die Operation war erfolgreich.
+
+
+
+Bewerten Sie die Entscheidung des Arztes, die Operation durchzuführen.",Völlig richtig,50,87
+hb_13_num,"Nun ein sehr ählicher Fall:
+
+
+
+Ein 55-jähriger Mann hatte ein Herzleiden. Wegen Brustschmerzen musste er aufhören zu arbeiten. Er mochte seine Arbeit und wollte nicht aufhören. Seine Schmerzen beeinträchtigten auch andere Dinge, wie Reisen und Freizeitaktivitäten. Eine Bypass-Operation würde seine Schmerzen lindern und seine Lebenserwartung von 65 auf 70 Jahre erhöhen. Allerdings sterben 8 % der Menschen, die sich dieser Operation unterziehen, an den Folgen der Operation.
+
+
+
+Fall 2:
+
+Sein Arzt entschied sich, die Operation durchzuführen.
+
+Die Operation war erfolgreich.
+
+
+
+Bewerten Sie die Entscheidung des Arztes, die Operation durchzuführen.",Weder richtig noch falsch,16,74
+hb_14_num,"Ein  55-jähriger Mann hatte ein Herzleiden. Wegen Brustschmerzen musste er aufhören zu arbeiten. Er mochte seine Arbeit und wollte nicht aufhören. Seine Schmerzen beeinträchtigten auch andere Dinge, wie Reisen und Freizeitaktivitäten. Eine Bypass-Operation würde seine Schmerzen lindern und seine Lebenserwartung von 65 auf 70 Jahre erhöhen. Allerdings sterben 8 % der Menschen, die sich dieser Operation unterziehen, an den Folgen der Operation.
+
+
+
+Fall 1:
+
+Sein Arzt entschied sich, die Operation durchzuführen.
+
+Die Operation ist fehlgeschlagen und der Mann ist gestorben.
+
+
+
+Bewerten Sie die Entscheidung des Arztes, die Operation durchzuführen.",Eher falsch,21,10
+hb_14_num,"Ein  55-jähriger Mann hatte ein Herzleiden. Wegen Brustschmerzen musste er aufhören zu arbeiten. Er mochte seine Arbeit und wollte nicht aufhören. Seine Schmerzen beeinträchtigten auch andere Dinge, wie Reisen und Freizeitaktivitäten. Eine Bypass-Operation würde seine Schmerzen lindern und seine Lebenserwartung von 65 auf 70 Jahre erhöhen. Allerdings sterben 8 % der Menschen, die sich dieser Operation unterziehen, an den Folgen der Operation.
+
+
+
+Fall 1:
+
+Sein Arzt entschied sich, die Operation durchzuführen.
+
+Die Operation ist fehlgeschlagen und der Mann ist gestorben.
+
+
+
+Bewerten Sie die Entscheidung des Arztes, die Operation durchzuführen.",Eher richtig,37,94
+hb_14_num,"Ein  55-jähriger Mann hatte ein Herzleiden. Wegen Brustschmerzen musste er aufhören zu arbeiten. Er mochte seine Arbeit und wollte nicht aufhören. Seine Schmerzen beeinträchtigten auch andere Dinge, wie Reisen und Freizeitaktivitäten. Eine Bypass-Operation würde seine Schmerzen lindern und seine Lebenserwartung von 65 auf 70 Jahre erhöhen. Allerdings sterben 8 % der Menschen, die sich dieser Operation unterziehen, an den Folgen der Operation.
+
+
+
+Fall 1:
+
+Sein Arzt entschied sich, die Operation durchzuführen.
+
+Die Operation ist fehlgeschlagen und der Mann ist gestorben.
+
+
+
+Bewerten Sie die Entscheidung des Arztes, die Operation durchzuführen.",Völlig falsch,4,4
+hb_14_num,"Ein  55-jähriger Mann hatte ein Herzleiden. Wegen Brustschmerzen musste er aufhören zu arbeiten. Er mochte seine Arbeit und wollte nicht aufhören. Seine Schmerzen beeinträchtigten auch andere Dinge, wie Reisen und Freizeitaktivitäten. Eine Bypass-Operation würde seine Schmerzen lindern und seine Lebenserwartung von 65 auf 70 Jahre erhöhen. Allerdings sterben 8 % der Menschen, die sich dieser Operation unterziehen, an den Folgen der Operation.
+
+
+
+Fall 1:
+
+Sein Arzt entschied sich, die Operation durchzuführen.
+
+Die Operation ist fehlgeschlagen und der Mann ist gestorben.
+
+
+
+Bewerten Sie die Entscheidung des Arztes, die Operation durchzuführen.",Völlig richtig,9,87
+hb_14_num,"Ein  55-jähriger Mann hatte ein Herzleiden. Wegen Brustschmerzen musste er aufhören zu arbeiten. Er mochte seine Arbeit und wollte nicht aufhören. Seine Schmerzen beeinträchtigten auch andere Dinge, wie Reisen und Freizeitaktivitäten. Eine Bypass-Operation würde seine Schmerzen lindern und seine Lebenserwartung von 65 auf 70 Jahre erhöhen. Allerdings sterben 8 % der Menschen, die sich dieser Operation unterziehen, an den Folgen der Operation.
+
+
+
+Fall 1:
+
+Sein Arzt entschied sich, die Operation durchzuführen.
+
+Die Operation ist fehlgeschlagen und der Mann ist gestorben.
+
+
+
+Bewerten Sie die Entscheidung des Arztes, die Operation durchzuführen.",Weder richtig noch falsch,37,74
+hb_1_num,"Eine Stadt wird von zwei Krankenhäusern versorgt. Im größeren Krankenhaus werden täglich etwa 45 Babys geboren und im kleineren Krankenhaus etwa 15 Babys pro Tag. Durchschnittlich sind 50 Prozent aller Babys Jungen. Der genaue Prozentsatz schwankt jedoch von Tag zu Tag. Manchmal ist er höher als 50 Prozent, manchmal niedriger. Über einen Zeitraum von einem Jahr hat jedes Krankenhaus die Tage aufgezeichnet, an denen mehr als 60 Prozent der Neugeborenen Jungen waren. Welches Krankenhaus verzeichnete Ihrer Meinung nach mehr solcher Tage?",Beide ungefähr gleich (d. h. sie weichen nicht mehr als 5 Prozent voneinander ab),227,0
+hb_1_num,"Eine Stadt wird von zwei Krankenhäusern versorgt. Im größeren Krankenhaus werden täglich etwa 45 Babys geboren und im kleineren Krankenhaus etwa 15 Babys pro Tag. Durchschnittlich sind 50 Prozent aller Babys Jungen. Der genaue Prozentsatz schwankt jedoch von Tag zu Tag. Manchmal ist er höher als 50 Prozent, manchmal niedriger. Über einen Zeitraum von einem Jahr hat jedes Krankenhaus die Tage aufgezeichnet, an denen mehr als 60 Prozent der Neugeborenen Jungen waren. Welches Krankenhaus verzeichnete Ihrer Meinung nach mehr solcher Tage?",Das größere Krankenhaus,87,0
+hb_1_num,"Eine Stadt wird von zwei Krankenhäusern versorgt. Im größeren Krankenhaus werden täglich etwa 45 Babys geboren und im kleineren Krankenhaus etwa 15 Babys pro Tag. Durchschnittlich sind 50 Prozent aller Babys Jungen. Der genaue Prozentsatz schwankt jedoch von Tag zu Tag. Manchmal ist er höher als 50 Prozent, manchmal niedriger. Über einen Zeitraum von einem Jahr hat jedes Krankenhaus die Tage aufgezeichnet, an denen mehr als 60 Prozent der Neugeborenen Jungen waren. Welches Krankenhaus verzeichnete Ihrer Meinung nach mehr solcher Tage?",Das kleinere Krankenhaus,0,63
+hb_2_num,"Stellen Sie sich vor, wir werfen eine faire Münze (eine Münze, bei der die Wahrscheinlichkeit, dass sie Kopf oder Zahl zeigt, 50:50 beträgt). Diese Münze ist gerade 5 Mal hintereinander auf Kopf gefallen. 
+
+Was glauben Sie: 
+
+Beim 6. Wurf…","...ist es wahrscheinlicher, dass Kopf herauskommt als Zahl.",33,0
+hb_2_num,"Stellen Sie sich vor, wir werfen eine faire Münze (eine Münze, bei der die Wahrscheinlichkeit, dass sie Kopf oder Zahl zeigt, 50:50 beträgt). Diese Münze ist gerade 5 Mal hintereinander auf Kopf gefallen. 
+
+Was glauben Sie: 
+
+Beim 6. Wurf…","...ist es wahrscheinlicher, dass Zahl herauskommt als Kopf.",54,0
+hb_2_num,"Stellen Sie sich vor, wir werfen eine faire Münze (eine Münze, bei der die Wahrscheinlichkeit, dass sie Kopf oder Zahl zeigt, 50:50 beträgt). Diese Münze ist gerade 5 Mal hintereinander auf Kopf gefallen. 
+
+Was glauben Sie: 
+
+Beim 6. Wurf…",...sind Kopf und Zahl gleich wahrscheinlich.,0,290
+hb_3_num,"Linda ist 31 Jahre alt, ledig, aufgeschlossen und sehr intelligent. Sie hat Philosophie studiert. Als Studentin beschäftigte sie sich intensiv mit Fragen der Diskriminierung und sozialen Gerechtigkeit und nahm auch an Fridays for Future Demonstrationen teil. Welche Aussage ist wahrscheinlicher?",Linda ist Bankangestellte und engagiert sich in der Frauenbewegung.,291,0
+hb_3_num,"Linda ist 31 Jahre alt, ledig, aufgeschlossen und sehr intelligent. Sie hat Philosophie studiert. Als Studentin beschäftigte sie sich intensiv mit Fragen der Diskriminierung und sozialen Gerechtigkeit und nahm auch an Fridays for Future Demonstrationen teil. Welche Aussage ist wahrscheinlicher?",Linda ist Bankangestellte.,0,86
+hb_4_num,"Zwei Tischtennisspieler (Spieler A und Spieler B) überlegen, ob sie ein Spiel bis 9 oder bis 15 Punkte spielen sollen. Spieler A ist der bessere Spieler. Bei welcher der beiden Spielformen hat Spieler A eine größere Chance zu gewinnen?",15,0,67
+hb_4_num,"Zwei Tischtennisspieler (Spieler A und Spieler B) überlegen, ob sie ein Spiel bis 9 oder bis 15 Punkte spielen sollen. Spieler A ist der bessere Spieler. Bei welcher der beiden Spielformen hat Spieler A eine größere Chance zu gewinnen?",9,77,0
+hb_4_num,"Zwei Tischtennisspieler (Spieler A und Spieler B) überlegen, ob sie ein Spiel bis 9 oder bis 15 Punkte spielen sollen. Spieler A ist der bessere Spieler. Bei welcher der beiden Spielformen hat Spieler A eine größere Chance zu gewinnen?",Bei beiden Spielformen sind die Gewinnchancen für A gleich,233,0
+hb_5_num,"Ein Würfel hat 4 rote und 2 grüne Seiten und wird 60 Mal geworfen. Sie werden vor jedem Wurf gefragt, welche Farbe geworfen wird. Für jede richtige Vorhersage bekommen Sie 5 Euro. Welche der folgenden Strategien würden Sie wählen?",Bei allen 60 Würfen sage ich die Farbe Rot vorher.,0,116
+hb_5_num,"Ein Würfel hat 4 rote und 2 grüne Seiten und wird 60 Mal geworfen. Sie werden vor jedem Wurf gefragt, welche Farbe geworfen wird. Für jede richtige Vorhersage bekommen Sie 5 Euro. Welche der folgenden Strategien würden Sie wählen?","Ich mache die Vorhersage entsprechend der Häufigkeit des Auftretens (4 von 6 für Rot; 2 von 6 für Grün). Das bedeutet, ich sage doppelt so häufig  rote Würfe wie grüne vorher.",110,0
+hb_5_num,"Ein Würfel hat 4 rote und 2 grüne Seiten und wird 60 Mal geworfen. Sie werden vor jedem Wurf gefragt, welche Farbe geworfen wird. Für jede richtige Vorhersage bekommen Sie 5 Euro. Welche der folgenden Strategien würden Sie wählen?",Ich wähle die meiste Zeit die wahrscheinlichere rote Farbe. Nach einer langen Serie von Rot sage ich aber auch manchmal Grün vorher.,80,0
+hb_5_num,"Ein Würfel hat 4 rote und 2 grüne Seiten und wird 60 Mal geworfen. Sie werden vor jedem Wurf gefragt, welche Farbe geworfen wird. Für jede richtige Vorhersage bekommen Sie 5 Euro. Welche der folgenden Strategien würden Sie wählen?","Ich würde mich auf mein Bauchgefühl verlassen. Wenn eine Farbe zu häufig erscheint, ändere ich meine Vorhersage.",71,0
+hb_6_num,"Sie übernachten in einem Hotel. 
+
+Sie haben 6,95 Euro bezahlt, um einen Film im Pay-TV zu sehen. 
+
+Nach 5 Minuten merken Sie, dass der Film langweilig ist. Würden Sie den Film weiter anschauen oder nicht?",Ich mache den Film aus,0,229
+hb_6_num,"Sie übernachten in einem Hotel. 
+
+Sie haben 6,95 Euro bezahlt, um einen Film im Pay-TV zu sehen. 
+
+Nach 5 Minuten merken Sie, dass der Film langweilig ist. Würden Sie den Film weiter anschauen oder nicht?",Ich schaue den Film weiter,148,0
+hb_7_num,"Sie übernachten in einem Hotel. 
+
+Sie schalten den Fernseher ein und es läuft ein Film. 
+
+Nach 5 Minuten merken Sie, dass der Film langweilig ist. Würden Sie den Film weiter anschauen oder nicht?",Ich mache den Film aus,0,337
+hb_7_num,"Sie übernachten in einem Hotel. 
+
+Sie schalten den Fernseher ein und es läuft ein Film. 
+
+Nach 5 Minuten merken Sie, dass der Film langweilig ist. Würden Sie den Film weiter anschauen oder nicht?",Ich schaue den Film weiter,40,0
+hb_8_num,"Die Müllers wollen beim nächsten Autokauf ein sicheres und langlebiges schwedisches Auto: entweder einen Volvo oder einen Saab. Ihr altes Auto geht genau am letzten Tag eines Sonderrabattes kaputt, der für Volvo und Saab gilt. Ab morgen fällt der Rabatt weg, also müssen sie sich heute entscheiden. Beide Autos kosten in etwa gleich viel.
+
+
+In Verbraucherberichten lesen sie: Beide Marken gelten als sehr zuverlässig, aber Volvo wird als etwas besser eingestuft und Volvo-Besitzer berichten insgesamt von weniger Problemen als Saab-Besitzer. 
+
+Bevor sie zum Volvo-Händler fahren, rufen sie drei Freunde an: Die zwei Saab-Besitzer berichten von kleineren, aber nicht schlimmen Problemen. Der Volvo-Besitzer dagegen antwortet wütend: ""Erst ging ein teures Computerteil der Einspritzung kaputt, dann gab es Probleme mit dem Heck, danach mit Getriebe und Kupplung."" Nach drei Jahren hat er den Volvo schließlich als Schrott verkauft.
+
+
+Angesichts dessen, dass die Müllers heute entweder einen Volvo oder einen Saab ka",Sie sollten auf jeden Fall einen Saab kaufen.,22,0
+hb_8_num,"Die Müllers wollen beim nächsten Autokauf ein sicheres und langlebiges schwedisches Auto: entweder einen Volvo oder einen Saab. Ihr altes Auto geht genau am letzten Tag eines Sonderrabattes kaputt, der für Volvo und Saab gilt. Ab morgen fällt der Rabatt weg, also müssen sie sich heute entscheiden. Beide Autos kosten in etwa gleich viel.
+
+
+In Verbraucherberichten lesen sie: Beide Marken gelten als sehr zuverlässig, aber Volvo wird als etwas besser eingestuft und Volvo-Besitzer berichten insgesamt von weniger Problemen als Saab-Besitzer. 
+
+Bevor sie zum Volvo-Händler fahren, rufen sie drei Freunde an: Die zwei Saab-Besitzer berichten von kleineren, aber nicht schlimmen Problemen. Der Volvo-Besitzer dagegen antwortet wütend: ""Erst ging ein teures Computerteil der Einspritzung kaputt, dann gab es Probleme mit dem Heck, danach mit Getriebe und Kupplung."" Nach drei Jahren hat er den Volvo schließlich als Schrott verkauft.
+
+
+Angesichts dessen, dass die Müllers heute entweder einen Volvo oder einen Saab ka",Sie sollten auf jeden Fall einen Volvo kaufen.,0,45
+hb_8_num,"Die Müllers wollen beim nächsten Autokauf ein sicheres und langlebiges schwedisches Auto: entweder einen Volvo oder einen Saab. Ihr altes Auto geht genau am letzten Tag eines Sonderrabattes kaputt, der für Volvo und Saab gilt. Ab morgen fällt der Rabatt weg, also müssen sie sich heute entscheiden. Beide Autos kosten in etwa gleich viel.
+
+
+In Verbraucherberichten lesen sie: Beide Marken gelten als sehr zuverlässig, aber Volvo wird als etwas besser eingestuft und Volvo-Besitzer berichten insgesamt von weniger Problemen als Saab-Besitzer. 
+
+Bevor sie zum Volvo-Händler fahren, rufen sie drei Freunde an: Die zwei Saab-Besitzer berichten von kleineren, aber nicht schlimmen Problemen. Der Volvo-Besitzer dagegen antwortet wütend: ""Erst ging ein teures Computerteil der Einspritzung kaputt, dann gab es Probleme mit dem Heck, danach mit Getriebe und Kupplung."" Nach drei Jahren hat er den Volvo schließlich als Schrott verkauft.
+
+
+Angesichts dessen, dass die Müllers heute entweder einen Volvo oder einen Saab ka",Sie sollten eher einen Saab kaufen.,131,0
+hb_8_num,"Die Müllers wollen beim nächsten Autokauf ein sicheres und langlebiges schwedisches Auto: entweder einen Volvo oder einen Saab. Ihr altes Auto geht genau am letzten Tag eines Sonderrabattes kaputt, der für Volvo und Saab gilt. Ab morgen fällt der Rabatt weg, also müssen sie sich heute entscheiden. Beide Autos kosten in etwa gleich viel.
+
+
+In Verbraucherberichten lesen sie: Beide Marken gelten als sehr zuverlässig, aber Volvo wird als etwas besser eingestuft und Volvo-Besitzer berichten insgesamt von weniger Problemen als Saab-Besitzer. 
+
+Bevor sie zum Volvo-Händler fahren, rufen sie drei Freunde an: Die zwei Saab-Besitzer berichten von kleineren, aber nicht schlimmen Problemen. Der Volvo-Besitzer dagegen antwortet wütend: ""Erst ging ein teures Computerteil der Einspritzung kaputt, dann gab es Probleme mit dem Heck, danach mit Getriebe und Kupplung."" Nach drei Jahren hat er den Volvo schließlich als Schrott verkauft.
+
+
+Angesichts dessen, dass die Müllers heute entweder einen Volvo oder einen Saab ka",Sie sollten eher einen Volvo kaufen.,0,179
+hb_9_num,"An einer kleinen Universität studieren 4 von 5 Studierenden Psychologie und 1 von 5 Philosophie.
+
+Sie lesen folgenden Text über Anna:
+""Anna liest gern anspruchsvolle Literatur und diskutiert viel über Ethik und Sinnfragen.""
+
+Was ist wahrscheinlicher?",Anna studiert Philosophie,314,0
+hb_9_num,"An einer kleinen Universität studieren 4 von 5 Studierenden Psychologie und 1 von 5 Philosophie.
+
+Sie lesen folgenden Text über Anna:
+""Anna liest gern anspruchsvolle Literatur und diskutiert viel über Ethik und Sinnfragen.""
+
+Was ist wahrscheinlicher?",Anna studiert Psychologie,0,63
